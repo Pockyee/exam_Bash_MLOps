@@ -1,7 +1,8 @@
-.PHONY: tests
+.PHONY: all bash tests
 
 bash:
-
+	bash scripts/collect.sh
+	bash scripts/preprocessed.sh
 
 
 
@@ -10,4 +11,4 @@ tests:
 	pytest tests/test_preprocessed.py && \
 	pytest tests/test_model.py
 
-all: 
+all: bash tests
