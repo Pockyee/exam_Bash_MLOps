@@ -1,1 +1,13 @@
-
+[2025-05-27T13:12:43Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T13:12:43Z] Querying rtx3060
+[2025-05-27T13:12:43Z] Retrieved rtx3060: 1
+[2025-05-27T13:12:43Z] Querying rtx3070
+[2025-05-27T13:12:43Z] Retrieved rtx3070: 18
+[2025-05-27T13:12:43Z] Querying rtx3080
+[2025-05-27T13:12:43Z] Retrieved rtx3080: 18
+[2025-05-27T13:12:43Z] Querying rtx3090
+[2025-05-27T13:12:43Z] Retrieved rtx3090: 15
+[2025-05-27T13:12:43Z] Querying rx6700
+[2025-05-27T13:12:43Z] Retrieved rx6700: 11
+[2025-05-27T13:12:43Z] Data added to data/raw/sales_data.csv
+[2025-05-27T13:12:43Z] Output saved to data/raw/sales_20250527_1312.csv
