@@ -5,5 +5,5 @@
 # =============================================================================
 
 #!/bin/bash
-
+source /home/ubuntu/exam_Bao/.bash/bin/activate
 python3 src/preprocessed.py

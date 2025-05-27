@@ -29,6 +29,7 @@
 # ==============================================================================
 
 #! /bin/bash
+source /home/ubuntu/exam_Bao/.bash/bin/activate
 
 GPUS=("rtx3060" "rtx3070" "rtx3080" "rtx3090" "rx6700")
 

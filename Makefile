@@ -3,7 +3,7 @@
 bash:
 	bash scripts/collect.sh
 	bash scripts/preprocessed.sh
-
+	bash scripts/train.sh
 
 
 tests:

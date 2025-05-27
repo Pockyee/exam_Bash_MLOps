@@ -1,36 +1,16 @@
 
-=== Test started (2025-05-27 13:42:49) ===
-No preprocessed file found.
-
-=== Test started (2025-05-27 13:48:45) ===
-No preprocessed file found.
-
-=== Test started (2025-05-27 14:08:31) ===
-No preprocessed file found.
-
-=== Test started (2025-05-27 14:10:51) ===
-No preprocessed file found.
-
-=== Test started (2025-05-27 14:13:29) ===
-No preprocessed file found.
-
-=== Test started (2025-05-27 14:15:29) ===
-No preprocessed file found.
-
-=== Test started (2025-05-27 14:17:51) ===
-No preprocessed file found.
-
-=== Test started (2025-05-27 14:19:25) ===
-No preprocessed file found.
-
-=== Test started (2025-05-27 15:15:38) ===
+=== Test started (2025-05-27 16:25:02) ===
 Starting structure test for the preprocessed file
-Loaded file: data/processed/sales_processed_20250527_1515.csv
-The file contains a 'timestamp' column
+Loaded file: data/processed/sales_processed_20250527_1624.csv
+Timestamp column check: OK (not present)
+Integer type check: OK (all columns are integers)
+Test completed for the preprocessed file.
+=== Test ended ===
 
-=== Test started (2025-05-27 15:38:34) ===
+
+=== Test started (2025-05-27 16:29:03) ===
 Starting structure test for the preprocessed file
-Loaded file: data/processed/sales_processed_20250527_1538.csv
+Loaded file: data/processed/sales_processed_20250527_1628.csv
 Timestamp column check: OK (not present)
 Integer type check: OK (all columns are integers)
 Test completed for the preprocessed file.

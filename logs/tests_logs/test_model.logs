@@ -1,6 +1,12 @@
-2025-05-27 15:38:35,000 - ERROR - The model 'model/model.pkl' was not found in model/
-2025-05-27 15:38:35,000 - ERROR - Test failed with error: Unable to find the model file.
+2025-05-27 16:25:02,000 - INFO - Model found: model/model.pkl
 
-=== Test started (2025-05-27 15:38:35) ===
+=== Test started (2025-05-27 16:25:02) ===
 Starting test for model file presence
-Test failed: The model file is missing.
+Test passed: The model file exists.
+=== Test completed (2025-05-27 16:25:02) ===
+2025-05-27 16:29:04,000 - INFO - Model found: model/model.pkl
+
+=== Test started (2025-05-27 16:29:04) ===
+Starting test for model file presence
+Test passed: The model file exists.
+=== Test completed (2025-05-27 16:29:04) ===
