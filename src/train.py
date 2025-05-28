@@ -37,12 +37,12 @@ def log(message):
    with open(LOG_PATH, "a") as log_file:
       log_file.write(f"{timestamp} {message}\n")
       
-# Load and sort data
-df = pd.read_csv(DATA_FILE).sort_values("time").reset_index(drop=True)
+# Load data
+df = pd.read_csv(DATA_FILE)
 
 # Create lag features for each GPU column
-lag_steps = 5
-gpu_columns = df.columns.drop("time")
+lag_steps = 8
+gpu_columns = df.columns
 for lag in range(1, lag_steps + 1):
     for col in gpu_columns:
         df[f"{col}_lag{lag}"] = df[col].shift(lag)
@@ -50,8 +50,8 @@ for lag in range(1, lag_steps + 1):
 # Drop rows with NaNs (from lagging)
 df = df.dropna().reset_index(drop=True)
 
-# Feature set: all lagged columns + time
-feature_cols = ["time"] + [f"{col}_lag{lag}" for lag in range(1, lag_steps + 1) for col in gpu_columns]
+# Feature set: all lagged columns
+feature_cols = [f"{col}_lag{lag}" for lag in range(1, lag_steps + 1) for col in gpu_columns]
 X = df[feature_cols]
 y = df[gpu_columns]  # Labels are current sales
 

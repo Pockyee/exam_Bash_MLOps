@@ -128,3 +128,1680 @@
 [2025-05-27T16:51:01Z] Retrieved rx6700: 3
 [2025-05-27T16:51:01Z] Data added to data/raw/sales_data.csv
 [2025-05-27T16:51:01Z] Output saved to data/raw/sales_20250527_1651.csv
+[2025-05-27T16:54:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T16:54:01Z] Querying rtx3060
+[2025-05-27T16:54:01Z] Retrieved rtx3060: 8
+[2025-05-27T16:54:01Z] Querying rtx3070
+[2025-05-27T16:54:01Z] Retrieved rtx3070: 11
+[2025-05-27T16:54:01Z] Querying rtx3080
+[2025-05-27T16:54:01Z] Retrieved rtx3080: 11
+[2025-05-27T16:54:01Z] Querying rtx3090
+[2025-05-27T16:54:01Z] Retrieved rtx3090: 14
+[2025-05-27T16:54:01Z] Querying rx6700
+[2025-05-27T16:54:01Z] Retrieved rx6700: 4
+[2025-05-27T16:54:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T16:54:01Z] Output saved to data/raw/sales_20250527_1654.csv
+[2025-05-27T16:57:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T16:57:01Z] Querying rtx3060
+[2025-05-27T16:57:01Z] Retrieved rtx3060: 5
+[2025-05-27T16:57:01Z] Querying rtx3070
+[2025-05-27T16:57:01Z] Retrieved rtx3070: 17
+[2025-05-27T16:57:01Z] Querying rtx3080
+[2025-05-27T16:57:01Z] Retrieved rtx3080: 17
+[2025-05-27T16:57:01Z] Querying rtx3090
+[2025-05-27T16:57:01Z] Retrieved rtx3090: 10
+[2025-05-27T16:57:01Z] Querying rx6700
+[2025-05-27T16:57:01Z] Retrieved rx6700: 14
+[2025-05-27T16:57:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T16:57:01Z] Output saved to data/raw/sales_20250527_1657.csv
+[2025-05-27T17:00:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T17:00:01Z] Querying rtx3060
+[2025-05-27T17:00:01Z] Retrieved rtx3060: 0
+[2025-05-27T17:00:01Z] Querying rtx3070
+[2025-05-27T17:00:01Z] Retrieved rtx3070: 8
+[2025-05-27T17:00:01Z] Querying rtx3080
+[2025-05-27T17:00:01Z] Retrieved rtx3080: 8
+[2025-05-27T17:00:01Z] Querying rtx3090
+[2025-05-27T17:00:01Z] Retrieved rtx3090: 12
+[2025-05-27T17:00:01Z] Querying rx6700
+[2025-05-27T17:00:01Z] Retrieved rx6700: 1
+[2025-05-27T17:00:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T17:00:01Z] Output saved to data/raw/sales_20250527_1700.csv
+[2025-05-27T17:03:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T17:03:01Z] Querying rtx3060
+[2025-05-27T17:03:01Z] Retrieved rtx3060: 20
+[2025-05-27T17:03:01Z] Querying rtx3070
+[2025-05-27T17:03:01Z] Retrieved rtx3070: 6
+[2025-05-27T17:03:01Z] Querying rtx3080
+[2025-05-27T17:03:01Z] Retrieved rtx3080: 6
+[2025-05-27T17:03:01Z] Querying rtx3090
+[2025-05-27T17:03:01Z] Retrieved rtx3090: 5
+[2025-05-27T17:03:01Z] Querying rx6700
+[2025-05-27T17:03:01Z] Retrieved rx6700: 17
+[2025-05-27T17:03:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T17:03:01Z] Output saved to data/raw/sales_20250527_1703.csv
+[2025-05-27T17:06:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T17:06:01Z] Querying rtx3060
+[2025-05-27T17:06:01Z] Retrieved rtx3060: 0
+[2025-05-27T17:06:01Z] Querying rtx3070
+[2025-05-27T17:06:01Z] Retrieved rtx3070: 2
+[2025-05-27T17:06:01Z] Querying rtx3080
+[2025-05-27T17:06:01Z] Retrieved rtx3080: 2
+[2025-05-27T17:06:01Z] Querying rtx3090
+[2025-05-27T17:06:01Z] Retrieved rtx3090: 12
+[2025-05-27T17:06:01Z] Querying rx6700
+[2025-05-27T17:06:01Z] Retrieved rx6700: 1
+[2025-05-27T17:06:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T17:06:01Z] Output saved to data/raw/sales_20250527_1706.csv
+[2025-05-27T17:09:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T17:09:01Z] Querying rtx3060
+[2025-05-27T17:09:01Z] Retrieved rtx3060: 6
+[2025-05-27T17:09:01Z] Querying rtx3070
+[2025-05-27T17:09:01Z] Retrieved rtx3070: 8
+[2025-05-27T17:09:01Z] Querying rtx3080
+[2025-05-27T17:09:01Z] Retrieved rtx3080: 8
+[2025-05-27T17:09:01Z] Querying rtx3090
+[2025-05-27T17:09:01Z] Retrieved rtx3090: 4
+[2025-05-27T17:09:01Z] Querying rx6700
+[2025-05-27T17:09:01Z] Retrieved rx6700: 17
+[2025-05-27T17:09:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T17:09:01Z] Output saved to data/raw/sales_20250527_1709.csv
+[2025-05-27T17:12:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T17:12:01Z] Querying rtx3060
+[2025-05-27T17:12:01Z] Retrieved rtx3060: 12
+[2025-05-27T17:12:01Z] Querying rtx3070
+[2025-05-27T17:12:01Z] Retrieved rtx3070: 8
+[2025-05-27T17:12:01Z] Querying rtx3080
+[2025-05-27T17:12:01Z] Retrieved rtx3080: 8
+[2025-05-27T17:12:01Z] Querying rtx3090
+[2025-05-27T17:12:01Z] Retrieved rtx3090: 1
+[2025-05-27T17:12:01Z] Querying rx6700
+[2025-05-27T17:12:01Z] Retrieved rx6700: 16
+[2025-05-27T17:12:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T17:12:01Z] Output saved to data/raw/sales_20250527_1712.csv
+[2025-05-27T17:15:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T17:15:01Z] Querying rtx3060
+[2025-05-27T17:15:01Z] Retrieved rtx3060: 18
+[2025-05-27T17:15:01Z] Querying rtx3070
+[2025-05-27T17:15:01Z] Retrieved rtx3070: 16
+[2025-05-27T17:15:01Z] Querying rtx3080
+[2025-05-27T17:15:01Z] Retrieved rtx3080: 16
+[2025-05-27T17:15:01Z] Querying rtx3090
+[2025-05-27T17:15:01Z] Retrieved rtx3090: 5
+[2025-05-27T17:15:01Z] Querying rx6700
+[2025-05-27T17:15:01Z] Retrieved rx6700: 17
+[2025-05-27T17:15:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T17:15:01Z] Output saved to data/raw/sales_20250527_1715.csv
+[2025-05-27T17:18:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T17:18:01Z] Querying rtx3060
+[2025-05-27T17:18:01Z] Retrieved rtx3060: 9
+[2025-05-27T17:18:01Z] Querying rtx3070
+[2025-05-27T17:18:01Z] Retrieved rtx3070: 6
+[2025-05-27T17:18:01Z] Querying rtx3080
+[2025-05-27T17:18:01Z] Retrieved rtx3080: 6
+[2025-05-27T17:18:01Z] Querying rtx3090
+[2025-05-27T17:18:01Z] Retrieved rtx3090: 1
+[2025-05-27T17:18:01Z] Querying rx6700
+[2025-05-27T17:18:01Z] Retrieved rx6700: 9
+[2025-05-27T17:18:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T17:18:01Z] Output saved to data/raw/sales_20250527_1718.csv
+[2025-05-27T17:21:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T17:21:01Z] Querying rtx3060
+[2025-05-27T17:21:01Z] Retrieved rtx3060: 4
+[2025-05-27T17:21:01Z] Querying rtx3070
+[2025-05-27T17:21:01Z] Retrieved rtx3070: 10
+[2025-05-27T17:21:01Z] Querying rtx3080
+[2025-05-27T17:21:01Z] Retrieved rtx3080: 10
+[2025-05-27T17:21:01Z] Querying rtx3090
+[2025-05-27T17:21:01Z] Retrieved rtx3090: 2
+[2025-05-27T17:21:01Z] Querying rx6700
+[2025-05-27T17:21:01Z] Retrieved rx6700: 18
+[2025-05-27T17:21:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T17:21:01Z] Output saved to data/raw/sales_20250527_1721.csv
+[2025-05-27T17:24:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T17:24:01Z] Querying rtx3060
+[2025-05-27T17:24:02Z] Retrieved rtx3060: 2
+[2025-05-27T17:24:02Z] Querying rtx3070
+[2025-05-27T17:24:02Z] Retrieved rtx3070: 6
+[2025-05-27T17:24:02Z] Querying rtx3080
+[2025-05-27T17:24:02Z] Retrieved rtx3080: 6
+[2025-05-27T17:24:02Z] Querying rtx3090
+[2025-05-27T17:24:02Z] Retrieved rtx3090: 10
+[2025-05-27T17:24:02Z] Querying rx6700
+[2025-05-27T17:24:02Z] Retrieved rx6700: 1
+[2025-05-27T17:24:02Z] Data added to data/raw/sales_data.csv
+[2025-05-27T17:24:02Z] Output saved to data/raw/sales_20250527_1724.csv
+[2025-05-27T17:27:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T17:27:01Z] Querying rtx3060
+[2025-05-27T17:27:01Z] Retrieved rtx3060: 20
+[2025-05-27T17:27:01Z] Querying rtx3070
+[2025-05-27T17:27:01Z] Retrieved rtx3070: 8
+[2025-05-27T17:27:01Z] Querying rtx3080
+[2025-05-27T17:27:01Z] Retrieved rtx3080: 8
+[2025-05-27T17:27:01Z] Querying rtx3090
+[2025-05-27T17:27:02Z] Retrieved rtx3090: 2
+[2025-05-27T17:27:02Z] Querying rx6700
+[2025-05-27T17:27:02Z] Retrieved rx6700: 12
+[2025-05-27T17:27:02Z] Data added to data/raw/sales_data.csv
+[2025-05-27T17:27:02Z] Output saved to data/raw/sales_20250527_1727.csv
+[2025-05-27T17:30:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T17:30:01Z] Querying rtx3060
+[2025-05-27T17:30:02Z] Retrieved rtx3060: 18
+[2025-05-27T17:30:02Z] Querying rtx3070
+[2025-05-27T17:30:02Z] Retrieved rtx3070: 15
+[2025-05-27T17:30:02Z] Querying rtx3080
+[2025-05-27T17:30:02Z] Retrieved rtx3080: 15
+[2025-05-27T17:30:02Z] Querying rtx3090
+[2025-05-27T17:30:02Z] Retrieved rtx3090: 0
+[2025-05-27T17:30:02Z] Querying rx6700
+[2025-05-27T17:30:02Z] Retrieved rx6700: 18
+[2025-05-27T17:30:02Z] Data added to data/raw/sales_data.csv
+[2025-05-27T17:30:02Z] Output saved to data/raw/sales_20250527_1730.csv
+[2025-05-27T17:33:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T17:33:01Z] Querying rtx3060
+[2025-05-27T17:33:01Z] Retrieved rtx3060: 10
+[2025-05-27T17:33:01Z] Querying rtx3070
+[2025-05-27T17:33:01Z] Retrieved rtx3070: 12
+[2025-05-27T17:33:01Z] Querying rtx3080
+[2025-05-27T17:33:01Z] Retrieved rtx3080: 12
+[2025-05-27T17:33:01Z] Querying rtx3090
+[2025-05-27T17:33:01Z] Retrieved rtx3090: 4
+[2025-05-27T17:33:01Z] Querying rx6700
+[2025-05-27T17:33:01Z] Retrieved rx6700: 20
+[2025-05-27T17:33:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T17:33:01Z] Output saved to data/raw/sales_20250527_1733.csv
+[2025-05-27T17:36:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T17:36:01Z] Querying rtx3060
+[2025-05-27T17:36:01Z] Retrieved rtx3060: 6
+[2025-05-27T17:36:01Z] Querying rtx3070
+[2025-05-27T17:36:01Z] Retrieved rtx3070: 3
+[2025-05-27T17:36:01Z] Querying rtx3080
+[2025-05-27T17:36:01Z] Retrieved rtx3080: 3
+[2025-05-27T17:36:01Z] Querying rtx3090
+[2025-05-27T17:36:01Z] Retrieved rtx3090: 14
+[2025-05-27T17:36:01Z] Querying rx6700
+[2025-05-27T17:36:01Z] Retrieved rx6700: 5
+[2025-05-27T17:36:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T17:36:01Z] Output saved to data/raw/sales_20250527_1736.csv
+[2025-05-27T17:39:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T17:39:01Z] Querying rtx3060
+[2025-05-27T17:39:01Z] Retrieved rtx3060: 1
+[2025-05-27T17:39:01Z] Querying rtx3070
+[2025-05-27T17:39:01Z] Retrieved rtx3070: 2
+[2025-05-27T17:39:01Z] Querying rtx3080
+[2025-05-27T17:39:01Z] Retrieved rtx3080: 2
+[2025-05-27T17:39:01Z] Querying rtx3090
+[2025-05-27T17:39:01Z] Retrieved rtx3090: 14
+[2025-05-27T17:39:01Z] Querying rx6700
+[2025-05-27T17:39:01Z] Retrieved rx6700: 19
+[2025-05-27T17:39:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T17:39:01Z] Output saved to data/raw/sales_20250527_1739.csv
+[2025-05-27T17:42:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T17:42:01Z] Querying rtx3060
+[2025-05-27T17:42:01Z] Retrieved rtx3060: 12
+[2025-05-27T17:42:01Z] Querying rtx3070
+[2025-05-27T17:42:01Z] Retrieved rtx3070: 9
+[2025-05-27T17:42:01Z] Querying rtx3080
+[2025-05-27T17:42:01Z] Retrieved rtx3080: 9
+[2025-05-27T17:42:01Z] Querying rtx3090
+[2025-05-27T17:42:01Z] Retrieved rtx3090: 0
+[2025-05-27T17:42:01Z] Querying rx6700
+[2025-05-27T17:42:01Z] Retrieved rx6700: 10
+[2025-05-27T17:42:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T17:42:01Z] Output saved to data/raw/sales_20250527_1742.csv
+[2025-05-27T17:45:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T17:45:01Z] Querying rtx3060
+[2025-05-27T17:45:01Z] Retrieved rtx3060: 17
+[2025-05-27T17:45:01Z] Querying rtx3070
+[2025-05-27T17:45:01Z] Retrieved rtx3070: 12
+[2025-05-27T17:45:01Z] Querying rtx3080
+[2025-05-27T17:45:01Z] Retrieved rtx3080: 12
+[2025-05-27T17:45:01Z] Querying rtx3090
+[2025-05-27T17:45:01Z] Retrieved rtx3090: 3
+[2025-05-27T17:45:01Z] Querying rx6700
+[2025-05-27T17:45:01Z] Retrieved rx6700: 14
+[2025-05-27T17:45:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T17:45:01Z] Output saved to data/raw/sales_20250527_1745.csv
+[2025-05-27T17:48:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T17:48:01Z] Querying rtx3060
+[2025-05-27T17:48:01Z] Retrieved rtx3060: 4
+[2025-05-27T17:48:01Z] Querying rtx3070
+[2025-05-27T17:48:01Z] Retrieved rtx3070: 15
+[2025-05-27T17:48:01Z] Querying rtx3080
+[2025-05-27T17:48:01Z] Retrieved rtx3080: 15
+[2025-05-27T17:48:01Z] Querying rtx3090
+[2025-05-27T17:48:01Z] Retrieved rtx3090: 6
+[2025-05-27T17:48:01Z] Querying rx6700
+[2025-05-27T17:48:01Z] Retrieved rx6700: 9
+[2025-05-27T17:48:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T17:48:01Z] Output saved to data/raw/sales_20250527_1748.csv
+[2025-05-27T17:51:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T17:51:01Z] Querying rtx3060
+[2025-05-27T17:51:01Z] Retrieved rtx3060: 3
+[2025-05-27T17:51:01Z] Querying rtx3070
+[2025-05-27T17:51:01Z] Retrieved rtx3070: 4
+[2025-05-27T17:51:01Z] Querying rtx3080
+[2025-05-27T17:51:01Z] Retrieved rtx3080: 4
+[2025-05-27T17:51:01Z] Querying rtx3090
+[2025-05-27T17:51:01Z] Retrieved rtx3090: 13
+[2025-05-27T17:51:01Z] Querying rx6700
+[2025-05-27T17:51:01Z] Retrieved rx6700: 3
+[2025-05-27T17:51:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T17:51:01Z] Output saved to data/raw/sales_20250527_1751.csv
+[2025-05-27T17:54:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T17:54:01Z] Querying rtx3060
+[2025-05-27T17:54:01Z] Retrieved rtx3060: 8
+[2025-05-27T17:54:01Z] Querying rtx3070
+[2025-05-27T17:54:01Z] Retrieved rtx3070: 11
+[2025-05-27T17:54:01Z] Querying rtx3080
+[2025-05-27T17:54:01Z] Retrieved rtx3080: 11
+[2025-05-27T17:54:01Z] Querying rtx3090
+[2025-05-27T17:54:01Z] Retrieved rtx3090: 14
+[2025-05-27T17:54:01Z] Querying rx6700
+[2025-05-27T17:54:01Z] Retrieved rx6700: 4
+[2025-05-27T17:54:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T17:54:01Z] Output saved to data/raw/sales_20250527_1754.csv
+[2025-05-27T17:57:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T17:57:01Z] Querying rtx3060
+[2025-05-27T17:57:01Z] Retrieved rtx3060: 5
+[2025-05-27T17:57:01Z] Querying rtx3070
+[2025-05-27T17:57:01Z] Retrieved rtx3070: 17
+[2025-05-27T17:57:01Z] Querying rtx3080
+[2025-05-27T17:57:01Z] Retrieved rtx3080: 17
+[2025-05-27T17:57:01Z] Querying rtx3090
+[2025-05-27T17:57:01Z] Retrieved rtx3090: 10
+[2025-05-27T17:57:01Z] Querying rx6700
+[2025-05-27T17:57:01Z] Retrieved rx6700: 14
+[2025-05-27T17:57:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T17:57:01Z] Output saved to data/raw/sales_20250527_1757.csv
+[2025-05-27T18:00:02Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T18:00:02Z] Querying rtx3060
+[2025-05-27T18:00:02Z] Retrieved rtx3060: 0
+[2025-05-27T18:00:02Z] Querying rtx3070
+[2025-05-27T18:00:02Z] Retrieved rtx3070: 8
+[2025-05-27T18:00:02Z] Querying rtx3080
+[2025-05-27T18:00:02Z] Retrieved rtx3080: 8
+[2025-05-27T18:00:02Z] Querying rtx3090
+[2025-05-27T18:00:02Z] Retrieved rtx3090: 12
+[2025-05-27T18:00:02Z] Querying rx6700
+[2025-05-27T18:00:02Z] Retrieved rx6700: 1
+[2025-05-27T18:00:02Z] Data added to data/raw/sales_data.csv
+[2025-05-27T18:00:02Z] Output saved to data/raw/sales_20250527_1800.csv
+[2025-05-27T18:03:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T18:03:01Z] Querying rtx3060
+[2025-05-27T18:03:01Z] Retrieved rtx3060: 20
+[2025-05-27T18:03:01Z] Querying rtx3070
+[2025-05-27T18:03:01Z] Retrieved rtx3070: 6
+[2025-05-27T18:03:01Z] Querying rtx3080
+[2025-05-27T18:03:01Z] Retrieved rtx3080: 6
+[2025-05-27T18:03:01Z] Querying rtx3090
+[2025-05-27T18:03:02Z] Retrieved rtx3090: 5
+[2025-05-27T18:03:02Z] Querying rx6700
+[2025-05-27T18:03:02Z] Retrieved rx6700: 17
+[2025-05-27T18:03:02Z] Data added to data/raw/sales_data.csv
+[2025-05-27T18:03:02Z] Output saved to data/raw/sales_20250527_1803.csv
+[2025-05-27T18:06:02Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T18:06:02Z] Querying rtx3060
+[2025-05-27T18:06:02Z] Retrieved rtx3060: 0
+[2025-05-27T18:06:02Z] Querying rtx3070
+[2025-05-27T18:06:02Z] Retrieved rtx3070: 2
+[2025-05-27T18:06:02Z] Querying rtx3080
+[2025-05-27T18:06:02Z] Retrieved rtx3080: 2
+[2025-05-27T18:06:02Z] Querying rtx3090
+[2025-05-27T18:06:02Z] Retrieved rtx3090: 12
+[2025-05-27T18:06:02Z] Querying rx6700
+[2025-05-27T18:06:02Z] Retrieved rx6700: 1
+[2025-05-27T18:06:02Z] Data added to data/raw/sales_data.csv
+[2025-05-27T18:06:02Z] Output saved to data/raw/sales_20250527_1806.csv
+[2025-05-27T18:09:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T18:09:01Z] Querying rtx3060
+[2025-05-27T18:09:02Z] Retrieved rtx3060: 6
+[2025-05-27T18:09:02Z] Querying rtx3070
+[2025-05-27T18:09:02Z] Retrieved rtx3070: 8
+[2025-05-27T18:09:02Z] Querying rtx3080
+[2025-05-27T18:09:02Z] Retrieved rtx3080: 8
+[2025-05-27T18:09:02Z] Querying rtx3090
+[2025-05-27T18:09:02Z] Retrieved rtx3090: 4
+[2025-05-27T18:09:02Z] Querying rx6700
+[2025-05-27T18:09:02Z] Retrieved rx6700: 17
+[2025-05-27T18:09:02Z] Data added to data/raw/sales_data.csv
+[2025-05-27T18:09:02Z] Output saved to data/raw/sales_20250527_1809.csv
+[2025-05-27T18:12:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T18:12:01Z] Querying rtx3060
+[2025-05-27T18:12:01Z] Retrieved rtx3060: 12
+[2025-05-27T18:12:01Z] Querying rtx3070
+[2025-05-27T18:12:01Z] Retrieved rtx3070: 8
+[2025-05-27T18:12:01Z] Querying rtx3080
+[2025-05-27T18:12:01Z] Retrieved rtx3080: 8
+[2025-05-27T18:12:01Z] Querying rtx3090
+[2025-05-27T18:12:01Z] Retrieved rtx3090: 1
+[2025-05-27T18:12:01Z] Querying rx6700
+[2025-05-27T18:12:01Z] Retrieved rx6700: 16
+[2025-05-27T18:12:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T18:12:01Z] Output saved to data/raw/sales_20250527_1812.csv
+[2025-05-27T18:15:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T18:15:01Z] Querying rtx3060
+[2025-05-27T18:15:01Z] Retrieved rtx3060: 18
+[2025-05-27T18:15:01Z] Querying rtx3070
+[2025-05-27T18:15:01Z] Retrieved rtx3070: 16
+[2025-05-27T18:15:01Z] Querying rtx3080
+[2025-05-27T18:15:01Z] Retrieved rtx3080: 16
+[2025-05-27T18:15:01Z] Querying rtx3090
+[2025-05-27T18:15:01Z] Retrieved rtx3090: 5
+[2025-05-27T18:15:01Z] Querying rx6700
+[2025-05-27T18:15:01Z] Retrieved rx6700: 17
+[2025-05-27T18:15:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T18:15:01Z] Output saved to data/raw/sales_20250527_1815.csv
+[2025-05-27T18:18:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T18:18:01Z] Querying rtx3060
+[2025-05-27T18:18:01Z] Retrieved rtx3060: 9
+[2025-05-27T18:18:01Z] Querying rtx3070
+[2025-05-27T18:18:01Z] Retrieved rtx3070: 6
+[2025-05-27T18:18:01Z] Querying rtx3080
+[2025-05-27T18:18:01Z] Retrieved rtx3080: 6
+[2025-05-27T18:18:01Z] Querying rtx3090
+[2025-05-27T18:18:01Z] Retrieved rtx3090: 1
+[2025-05-27T18:18:01Z] Querying rx6700
+[2025-05-27T18:18:02Z] Retrieved rx6700: 9
+[2025-05-27T18:18:02Z] Data added to data/raw/sales_data.csv
+[2025-05-27T18:18:02Z] Output saved to data/raw/sales_20250527_1818.csv
+[2025-05-27T18:21:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T18:21:01Z] Querying rtx3060
+[2025-05-27T18:21:01Z] Retrieved rtx3060: 4
+[2025-05-27T18:21:01Z] Querying rtx3070
+[2025-05-27T18:21:01Z] Retrieved rtx3070: 10
+[2025-05-27T18:21:01Z] Querying rtx3080
+[2025-05-27T18:21:01Z] Retrieved rtx3080: 10
+[2025-05-27T18:21:01Z] Querying rtx3090
+[2025-05-27T18:21:01Z] Retrieved rtx3090: 2
+[2025-05-27T18:21:01Z] Querying rx6700
+[2025-05-27T18:21:01Z] Retrieved rx6700: 18
+[2025-05-27T18:21:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T18:21:01Z] Output saved to data/raw/sales_20250527_1821.csv
+[2025-05-27T18:24:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T18:24:01Z] Querying rtx3060
+[2025-05-27T18:24:01Z] Retrieved rtx3060: 2
+[2025-05-27T18:24:01Z] Querying rtx3070
+[2025-05-27T18:24:01Z] Retrieved rtx3070: 6
+[2025-05-27T18:24:01Z] Querying rtx3080
+[2025-05-27T18:24:01Z] Retrieved rtx3080: 6
+[2025-05-27T18:24:01Z] Querying rtx3090
+[2025-05-27T18:24:01Z] Retrieved rtx3090: 10
+[2025-05-27T18:24:01Z] Querying rx6700
+[2025-05-27T18:24:01Z] Retrieved rx6700: 1
+[2025-05-27T18:24:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T18:24:01Z] Output saved to data/raw/sales_20250527_1824.csv
+[2025-05-27T18:27:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T18:27:01Z] Querying rtx3060
+[2025-05-27T18:27:01Z] Retrieved rtx3060: 20
+[2025-05-27T18:27:01Z] Querying rtx3070
+[2025-05-27T18:27:01Z] Retrieved rtx3070: 8
+[2025-05-27T18:27:01Z] Querying rtx3080
+[2025-05-27T18:27:01Z] Retrieved rtx3080: 8
+[2025-05-27T18:27:01Z] Querying rtx3090
+[2025-05-27T18:27:01Z] Retrieved rtx3090: 2
+[2025-05-27T18:27:01Z] Querying rx6700
+[2025-05-27T18:27:01Z] Retrieved rx6700: 12
+[2025-05-27T18:27:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T18:27:01Z] Output saved to data/raw/sales_20250527_1827.csv
+[2025-05-27T18:30:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T18:30:01Z] Querying rtx3060
+[2025-05-27T18:30:01Z] Retrieved rtx3060: 18
+[2025-05-27T18:30:01Z] Querying rtx3070
+[2025-05-27T18:30:01Z] Retrieved rtx3070: 15
+[2025-05-27T18:30:01Z] Querying rtx3080
+[2025-05-27T18:30:01Z] Retrieved rtx3080: 15
+[2025-05-27T18:30:01Z] Querying rtx3090
+[2025-05-27T18:30:01Z] Retrieved rtx3090: 0
+[2025-05-27T18:30:01Z] Querying rx6700
+[2025-05-27T18:30:01Z] Retrieved rx6700: 18
+[2025-05-27T18:30:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T18:30:01Z] Output saved to data/raw/sales_20250527_1830.csv
+[2025-05-27T18:33:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T18:33:01Z] Querying rtx3060
+[2025-05-27T18:33:01Z] Retrieved rtx3060: 10
+[2025-05-27T18:33:01Z] Querying rtx3070
+[2025-05-27T18:33:01Z] Retrieved rtx3070: 12
+[2025-05-27T18:33:01Z] Querying rtx3080
+[2025-05-27T18:33:01Z] Retrieved rtx3080: 12
+[2025-05-27T18:33:01Z] Querying rtx3090
+[2025-05-27T18:33:01Z] Retrieved rtx3090: 4
+[2025-05-27T18:33:01Z] Querying rx6700
+[2025-05-27T18:33:01Z] Retrieved rx6700: 20
+[2025-05-27T18:33:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T18:33:01Z] Output saved to data/raw/sales_20250527_1833.csv
+[2025-05-27T18:36:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T18:36:01Z] Querying rtx3060
+[2025-05-27T18:36:01Z] Retrieved rtx3060: 6
+[2025-05-27T18:36:01Z] Querying rtx3070
+[2025-05-27T18:36:01Z] Retrieved rtx3070: 3
+[2025-05-27T18:36:01Z] Querying rtx3080
+[2025-05-27T18:36:01Z] Retrieved rtx3080: 3
+[2025-05-27T18:36:01Z] Querying rtx3090
+[2025-05-27T18:36:01Z] Retrieved rtx3090: 14
+[2025-05-27T18:36:01Z] Querying rx6700
+[2025-05-27T18:36:01Z] Retrieved rx6700: 5
+[2025-05-27T18:36:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T18:36:01Z] Output saved to data/raw/sales_20250527_1836.csv
+[2025-05-27T18:39:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T18:39:01Z] Querying rtx3060
+[2025-05-27T18:39:01Z] Retrieved rtx3060: 1
+[2025-05-27T18:39:01Z] Querying rtx3070
+[2025-05-27T18:39:01Z] Retrieved rtx3070: 2
+[2025-05-27T18:39:01Z] Querying rtx3080
+[2025-05-27T18:39:01Z] Retrieved rtx3080: 2
+[2025-05-27T18:39:01Z] Querying rtx3090
+[2025-05-27T18:39:01Z] Retrieved rtx3090: 14
+[2025-05-27T18:39:01Z] Querying rx6700
+[2025-05-27T18:39:01Z] Retrieved rx6700: 19
+[2025-05-27T18:39:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T18:39:01Z] Output saved to data/raw/sales_20250527_1839.csv
+[2025-05-27T18:42:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T18:42:01Z] Querying rtx3060
+[2025-05-27T18:42:01Z] Retrieved rtx3060: 12
+[2025-05-27T18:42:01Z] Querying rtx3070
+[2025-05-27T18:42:01Z] Retrieved rtx3070: 9
+[2025-05-27T18:42:01Z] Querying rtx3080
+[2025-05-27T18:42:01Z] Retrieved rtx3080: 9
+[2025-05-27T18:42:01Z] Querying rtx3090
+[2025-05-27T18:42:02Z] Retrieved rtx3090: 0
+[2025-05-27T18:42:02Z] Querying rx6700
+[2025-05-27T18:42:02Z] Retrieved rx6700: 10
+[2025-05-27T18:42:02Z] Data added to data/raw/sales_data.csv
+[2025-05-27T18:42:02Z] Output saved to data/raw/sales_20250527_1842.csv
+[2025-05-27T18:45:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T18:45:01Z] Querying rtx3060
+[2025-05-27T18:45:01Z] Retrieved rtx3060: 17
+[2025-05-27T18:45:01Z] Querying rtx3070
+[2025-05-27T18:45:01Z] Retrieved rtx3070: 12
+[2025-05-27T18:45:01Z] Querying rtx3080
+[2025-05-27T18:45:01Z] Retrieved rtx3080: 12
+[2025-05-27T18:45:01Z] Querying rtx3090
+[2025-05-27T18:45:01Z] Retrieved rtx3090: 3
+[2025-05-27T18:45:01Z] Querying rx6700
+[2025-05-27T18:45:01Z] Retrieved rx6700: 14
+[2025-05-27T18:45:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T18:45:01Z] Output saved to data/raw/sales_20250527_1845.csv
+[2025-05-27T18:48:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T18:48:01Z] Querying rtx3060
+[2025-05-27T18:48:01Z] Retrieved rtx3060: 4
+[2025-05-27T18:48:01Z] Querying rtx3070
+[2025-05-27T18:48:01Z] Retrieved rtx3070: 15
+[2025-05-27T18:48:01Z] Querying rtx3080
+[2025-05-27T18:48:01Z] Retrieved rtx3080: 15
+[2025-05-27T18:48:01Z] Querying rtx3090
+[2025-05-27T18:48:01Z] Retrieved rtx3090: 6
+[2025-05-27T18:48:01Z] Querying rx6700
+[2025-05-27T18:48:01Z] Retrieved rx6700: 9
+[2025-05-27T18:48:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T18:48:01Z] Output saved to data/raw/sales_20250527_1848.csv
+[2025-05-27T18:51:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T18:51:01Z] Querying rtx3060
+[2025-05-27T18:51:01Z] Retrieved rtx3060: 3
+[2025-05-27T18:51:01Z] Querying rtx3070
+[2025-05-27T18:51:01Z] Retrieved rtx3070: 4
+[2025-05-27T18:51:01Z] Querying rtx3080
+[2025-05-27T18:51:01Z] Retrieved rtx3080: 4
+[2025-05-27T18:51:01Z] Querying rtx3090
+[2025-05-27T18:51:01Z] Retrieved rtx3090: 13
+[2025-05-27T18:51:01Z] Querying rx6700
+[2025-05-27T18:51:01Z] Retrieved rx6700: 3
+[2025-05-27T18:51:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T18:51:01Z] Output saved to data/raw/sales_20250527_1851.csv
+[2025-05-27T18:54:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T18:54:01Z] Querying rtx3060
+[2025-05-27T18:54:01Z] Retrieved rtx3060: 8
+[2025-05-27T18:54:01Z] Querying rtx3070
+[2025-05-27T18:54:01Z] Retrieved rtx3070: 11
+[2025-05-27T18:54:01Z] Querying rtx3080
+[2025-05-27T18:54:01Z] Retrieved rtx3080: 11
+[2025-05-27T18:54:01Z] Querying rtx3090
+[2025-05-27T18:54:01Z] Retrieved rtx3090: 14
+[2025-05-27T18:54:01Z] Querying rx6700
+[2025-05-27T18:54:01Z] Retrieved rx6700: 4
+[2025-05-27T18:54:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T18:54:01Z] Output saved to data/raw/sales_20250527_1854.csv
+[2025-05-27T18:57:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T18:57:01Z] Querying rtx3060
+[2025-05-27T18:57:01Z] Retrieved rtx3060: 5
+[2025-05-27T18:57:01Z] Querying rtx3070
+[2025-05-27T18:57:01Z] Retrieved rtx3070: 17
+[2025-05-27T18:57:01Z] Querying rtx3080
+[2025-05-27T18:57:01Z] Retrieved rtx3080: 17
+[2025-05-27T18:57:01Z] Querying rtx3090
+[2025-05-27T18:57:01Z] Retrieved rtx3090: 10
+[2025-05-27T18:57:01Z] Querying rx6700
+[2025-05-27T18:57:01Z] Retrieved rx6700: 14
+[2025-05-27T18:57:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T18:57:01Z] Output saved to data/raw/sales_20250527_1857.csv
+[2025-05-27T19:00:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T19:00:01Z] Querying rtx3060
+[2025-05-27T19:00:01Z] Retrieved rtx3060: 0
+[2025-05-27T19:00:01Z] Querying rtx3070
+[2025-05-27T19:00:01Z] Retrieved rtx3070: 8
+[2025-05-27T19:00:01Z] Querying rtx3080
+[2025-05-27T19:00:01Z] Retrieved rtx3080: 8
+[2025-05-27T19:00:01Z] Querying rtx3090
+[2025-05-27T19:00:01Z] Retrieved rtx3090: 12
+[2025-05-27T19:00:01Z] Querying rx6700
+[2025-05-27T19:00:01Z] Retrieved rx6700: 1
+[2025-05-27T19:00:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T19:00:01Z] Output saved to data/raw/sales_20250527_1900.csv
+[2025-05-27T19:03:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T19:03:01Z] Querying rtx3060
+[2025-05-27T19:03:01Z] Retrieved rtx3060: 20
+[2025-05-27T19:03:01Z] Querying rtx3070
+[2025-05-27T19:03:01Z] Retrieved rtx3070: 6
+[2025-05-27T19:03:01Z] Querying rtx3080
+[2025-05-27T19:03:01Z] Retrieved rtx3080: 6
+[2025-05-27T19:03:01Z] Querying rtx3090
+[2025-05-27T19:03:01Z] Retrieved rtx3090: 5
+[2025-05-27T19:03:01Z] Querying rx6700
+[2025-05-27T19:03:01Z] Retrieved rx6700: 17
+[2025-05-27T19:03:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T19:03:01Z] Output saved to data/raw/sales_20250527_1903.csv
+[2025-05-27T19:06:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T19:06:01Z] Querying rtx3060
+[2025-05-27T19:06:01Z] Retrieved rtx3060: 0
+[2025-05-27T19:06:01Z] Querying rtx3070
+[2025-05-27T19:06:01Z] Retrieved rtx3070: 2
+[2025-05-27T19:06:01Z] Querying rtx3080
+[2025-05-27T19:06:01Z] Retrieved rtx3080: 2
+[2025-05-27T19:06:01Z] Querying rtx3090
+[2025-05-27T19:06:01Z] Retrieved rtx3090: 12
+[2025-05-27T19:06:01Z] Querying rx6700
+[2025-05-27T19:06:01Z] Retrieved rx6700: 1
+[2025-05-27T19:06:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T19:06:01Z] Output saved to data/raw/sales_20250527_1906.csv
+[2025-05-27T19:09:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T19:09:01Z] Querying rtx3060
+[2025-05-27T19:09:02Z] Retrieved rtx3060: 6
+[2025-05-27T19:09:02Z] Querying rtx3070
+[2025-05-27T19:09:02Z] Retrieved rtx3070: 8
+[2025-05-27T19:09:02Z] Querying rtx3080
+[2025-05-27T19:09:02Z] Retrieved rtx3080: 8
+[2025-05-27T19:09:02Z] Querying rtx3090
+[2025-05-27T19:09:02Z] Retrieved rtx3090: 4
+[2025-05-27T19:09:02Z] Querying rx6700
+[2025-05-27T19:09:02Z] Retrieved rx6700: 17
+[2025-05-27T19:09:02Z] Data added to data/raw/sales_data.csv
+[2025-05-27T19:09:02Z] Output saved to data/raw/sales_20250527_1909.csv
+[2025-05-27T19:12:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T19:12:01Z] Querying rtx3060
+[2025-05-27T19:12:01Z] Retrieved rtx3060: 12
+[2025-05-27T19:12:01Z] Querying rtx3070
+[2025-05-27T19:12:01Z] Retrieved rtx3070: 8
+[2025-05-27T19:12:01Z] Querying rtx3080
+[2025-05-27T19:12:01Z] Retrieved rtx3080: 8
+[2025-05-27T19:12:01Z] Querying rtx3090
+[2025-05-27T19:12:01Z] Retrieved rtx3090: 1
+[2025-05-27T19:12:01Z] Querying rx6700
+[2025-05-27T19:12:01Z] Retrieved rx6700: 16
+[2025-05-27T19:12:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T19:12:01Z] Output saved to data/raw/sales_20250527_1912.csv
+[2025-05-27T19:15:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T19:15:01Z] Querying rtx3060
+[2025-05-27T19:15:01Z] Retrieved rtx3060: 18
+[2025-05-27T19:15:01Z] Querying rtx3070
+[2025-05-27T19:15:01Z] Retrieved rtx3070: 16
+[2025-05-27T19:15:01Z] Querying rtx3080
+[2025-05-27T19:15:01Z] Retrieved rtx3080: 16
+[2025-05-27T19:15:01Z] Querying rtx3090
+[2025-05-27T19:15:01Z] Retrieved rtx3090: 5
+[2025-05-27T19:15:01Z] Querying rx6700
+[2025-05-27T19:15:01Z] Retrieved rx6700: 17
+[2025-05-27T19:15:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T19:15:01Z] Output saved to data/raw/sales_20250527_1915.csv
+[2025-05-27T19:18:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T19:18:01Z] Querying rtx3060
+[2025-05-27T19:18:01Z] Retrieved rtx3060: 9
+[2025-05-27T19:18:01Z] Querying rtx3070
+[2025-05-27T19:18:01Z] Retrieved rtx3070: 6
+[2025-05-27T19:18:01Z] Querying rtx3080
+[2025-05-27T19:18:01Z] Retrieved rtx3080: 6
+[2025-05-27T19:18:01Z] Querying rtx3090
+[2025-05-27T19:18:01Z] Retrieved rtx3090: 1
+[2025-05-27T19:18:01Z] Querying rx6700
+[2025-05-27T19:18:01Z] Retrieved rx6700: 9
+[2025-05-27T19:18:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T19:18:01Z] Output saved to data/raw/sales_20250527_1918.csv
+[2025-05-27T19:21:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T19:21:01Z] Querying rtx3060
+[2025-05-27T19:21:01Z] Retrieved rtx3060: 4
+[2025-05-27T19:21:01Z] Querying rtx3070
+[2025-05-27T19:21:01Z] Retrieved rtx3070: 10
+[2025-05-27T19:21:01Z] Querying rtx3080
+[2025-05-27T19:21:01Z] Retrieved rtx3080: 10
+[2025-05-27T19:21:01Z] Querying rtx3090
+[2025-05-27T19:21:01Z] Retrieved rtx3090: 2
+[2025-05-27T19:21:01Z] Querying rx6700
+[2025-05-27T19:21:01Z] Retrieved rx6700: 18
+[2025-05-27T19:21:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T19:21:01Z] Output saved to data/raw/sales_20250527_1921.csv
+[2025-05-27T19:24:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T19:24:01Z] Querying rtx3060
+[2025-05-27T19:24:01Z] Retrieved rtx3060: 2
+[2025-05-27T19:24:01Z] Querying rtx3070
+[2025-05-27T19:24:01Z] Retrieved rtx3070: 6
+[2025-05-27T19:24:01Z] Querying rtx3080
+[2025-05-27T19:24:01Z] Retrieved rtx3080: 6
+[2025-05-27T19:24:01Z] Querying rtx3090
+[2025-05-27T19:24:01Z] Retrieved rtx3090: 10
+[2025-05-27T19:24:01Z] Querying rx6700
+[2025-05-27T19:24:01Z] Retrieved rx6700: 1
+[2025-05-27T19:24:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T19:24:01Z] Output saved to data/raw/sales_20250527_1924.csv
+[2025-05-27T19:27:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T19:27:01Z] Querying rtx3060
+[2025-05-27T19:27:01Z] Retrieved rtx3060: 20
+[2025-05-27T19:27:01Z] Querying rtx3070
+[2025-05-27T19:27:01Z] Retrieved rtx3070: 8
+[2025-05-27T19:27:01Z] Querying rtx3080
+[2025-05-27T19:27:01Z] Retrieved rtx3080: 8
+[2025-05-27T19:27:01Z] Querying rtx3090
+[2025-05-27T19:27:01Z] Retrieved rtx3090: 2
+[2025-05-27T19:27:01Z] Querying rx6700
+[2025-05-27T19:27:01Z] Retrieved rx6700: 12
+[2025-05-27T19:27:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T19:27:01Z] Output saved to data/raw/sales_20250527_1927.csv
+[2025-05-27T19:30:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T19:30:01Z] Querying rtx3060
+[2025-05-27T19:30:01Z] Retrieved rtx3060: 18
+[2025-05-27T19:30:01Z] Querying rtx3070
+[2025-05-27T19:30:01Z] Retrieved rtx3070: 15
+[2025-05-27T19:30:01Z] Querying rtx3080
+[2025-05-27T19:30:01Z] Retrieved rtx3080: 15
+[2025-05-27T19:30:01Z] Querying rtx3090
+[2025-05-27T19:30:01Z] Retrieved rtx3090: 0
+[2025-05-27T19:30:01Z] Querying rx6700
+[2025-05-27T19:30:01Z] Retrieved rx6700: 18
+[2025-05-27T19:30:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T19:30:01Z] Output saved to data/raw/sales_20250527_1930.csv
+[2025-05-27T19:33:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T19:33:01Z] Querying rtx3060
+[2025-05-27T19:33:01Z] Retrieved rtx3060: 10
+[2025-05-27T19:33:01Z] Querying rtx3070
+[2025-05-27T19:33:01Z] Retrieved rtx3070: 12
+[2025-05-27T19:33:01Z] Querying rtx3080
+[2025-05-27T19:33:01Z] Retrieved rtx3080: 12
+[2025-05-27T19:33:01Z] Querying rtx3090
+[2025-05-27T19:33:01Z] Retrieved rtx3090: 4
+[2025-05-27T19:33:01Z] Querying rx6700
+[2025-05-27T19:33:01Z] Retrieved rx6700: 20
+[2025-05-27T19:33:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T19:33:01Z] Output saved to data/raw/sales_20250527_1933.csv
+[2025-05-27T19:36:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T19:36:01Z] Querying rtx3060
+[2025-05-27T19:36:01Z] Retrieved rtx3060: 6
+[2025-05-27T19:36:01Z] Querying rtx3070
+[2025-05-27T19:36:02Z] Retrieved rtx3070: 3
+[2025-05-27T19:36:02Z] Querying rtx3080
+[2025-05-27T19:36:02Z] Retrieved rtx3080: 3
+[2025-05-27T19:36:02Z] Querying rtx3090
+[2025-05-27T19:36:02Z] Retrieved rtx3090: 14
+[2025-05-27T19:36:02Z] Querying rx6700
+[2025-05-27T19:36:02Z] Retrieved rx6700: 5
+[2025-05-27T19:36:02Z] Data added to data/raw/sales_data.csv
+[2025-05-27T19:36:02Z] Output saved to data/raw/sales_20250527_1936.csv
+[2025-05-27T19:39:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T19:39:01Z] Querying rtx3060
+[2025-05-27T19:39:01Z] Retrieved rtx3060: 1
+[2025-05-27T19:39:01Z] Querying rtx3070
+[2025-05-27T19:39:01Z] Retrieved rtx3070: 2
+[2025-05-27T19:39:01Z] Querying rtx3080
+[2025-05-27T19:39:01Z] Retrieved rtx3080: 2
+[2025-05-27T19:39:01Z] Querying rtx3090
+[2025-05-27T19:39:01Z] Retrieved rtx3090: 14
+[2025-05-27T19:39:01Z] Querying rx6700
+[2025-05-27T19:39:01Z] Retrieved rx6700: 19
+[2025-05-27T19:39:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T19:39:01Z] Output saved to data/raw/sales_20250527_1939.csv
+[2025-05-27T19:42:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T19:42:01Z] Querying rtx3060
+[2025-05-27T19:42:01Z] Retrieved rtx3060: 12
+[2025-05-27T19:42:01Z] Querying rtx3070
+[2025-05-27T19:42:01Z] Retrieved rtx3070: 9
+[2025-05-27T19:42:01Z] Querying rtx3080
+[2025-05-27T19:42:02Z] Retrieved rtx3080: 9
+[2025-05-27T19:42:02Z] Querying rtx3090
+[2025-05-27T19:42:02Z] Retrieved rtx3090: 0
+[2025-05-27T19:42:02Z] Querying rx6700
+[2025-05-27T19:42:02Z] Retrieved rx6700: 10
+[2025-05-27T19:42:02Z] Data added to data/raw/sales_data.csv
+[2025-05-27T19:42:02Z] Output saved to data/raw/sales_20250527_1942.csv
+[2025-05-27T19:45:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T19:45:01Z] Querying rtx3060
+[2025-05-27T19:45:01Z] Retrieved rtx3060: 17
+[2025-05-27T19:45:01Z] Querying rtx3070
+[2025-05-27T19:45:01Z] Retrieved rtx3070: 12
+[2025-05-27T19:45:01Z] Querying rtx3080
+[2025-05-27T19:45:01Z] Retrieved rtx3080: 12
+[2025-05-27T19:45:01Z] Querying rtx3090
+[2025-05-27T19:45:01Z] Retrieved rtx3090: 3
+[2025-05-27T19:45:01Z] Querying rx6700
+[2025-05-27T19:45:01Z] Retrieved rx6700: 14
+[2025-05-27T19:45:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T19:45:01Z] Output saved to data/raw/sales_20250527_1945.csv
+[2025-05-27T19:48:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T19:48:01Z] Querying rtx3060
+[2025-05-27T19:48:01Z] Retrieved rtx3060: 4
+[2025-05-27T19:48:01Z] Querying rtx3070
+[2025-05-27T19:48:01Z] Retrieved rtx3070: 15
+[2025-05-27T19:48:01Z] Querying rtx3080
+[2025-05-27T19:48:01Z] Retrieved rtx3080: 15
+[2025-05-27T19:48:01Z] Querying rtx3090
+[2025-05-27T19:48:01Z] Retrieved rtx3090: 6
+[2025-05-27T19:48:01Z] Querying rx6700
+[2025-05-27T19:48:01Z] Retrieved rx6700: 9
+[2025-05-27T19:48:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T19:48:01Z] Output saved to data/raw/sales_20250527_1948.csv
+[2025-05-27T19:51:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T19:51:01Z] Querying rtx3060
+[2025-05-27T19:51:01Z] Retrieved rtx3060: 3
+[2025-05-27T19:51:01Z] Querying rtx3070
+[2025-05-27T19:51:02Z] Retrieved rtx3070: 4
+[2025-05-27T19:51:02Z] Querying rtx3080
+[2025-05-27T19:51:02Z] Retrieved rtx3080: 4
+[2025-05-27T19:51:02Z] Querying rtx3090
+[2025-05-27T19:51:02Z] Retrieved rtx3090: 13
+[2025-05-27T19:51:02Z] Querying rx6700
+[2025-05-27T19:51:02Z] Retrieved rx6700: 3
+[2025-05-27T19:51:02Z] Data added to data/raw/sales_data.csv
+[2025-05-27T19:51:02Z] Output saved to data/raw/sales_20250527_1951.csv
+[2025-05-27T19:54:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T19:54:01Z] Querying rtx3060
+[2025-05-27T19:54:01Z] Retrieved rtx3060: 8
+[2025-05-27T19:54:01Z] Querying rtx3070
+[2025-05-27T19:54:01Z] Retrieved rtx3070: 11
+[2025-05-27T19:54:01Z] Querying rtx3080
+[2025-05-27T19:54:01Z] Retrieved rtx3080: 11
+[2025-05-27T19:54:01Z] Querying rtx3090
+[2025-05-27T19:54:01Z] Retrieved rtx3090: 14
+[2025-05-27T19:54:01Z] Querying rx6700
+[2025-05-27T19:54:01Z] Retrieved rx6700: 4
+[2025-05-27T19:54:02Z] Data added to data/raw/sales_data.csv
+[2025-05-27T19:54:02Z] Output saved to data/raw/sales_20250527_1954.csv
+[2025-05-27T19:57:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T19:57:01Z] Querying rtx3060
+[2025-05-27T19:57:01Z] Retrieved rtx3060: 5
+[2025-05-27T19:57:01Z] Querying rtx3070
+[2025-05-27T19:57:01Z] Retrieved rtx3070: 17
+[2025-05-27T19:57:01Z] Querying rtx3080
+[2025-05-27T19:57:01Z] Retrieved rtx3080: 17
+[2025-05-27T19:57:01Z] Querying rtx3090
+[2025-05-27T19:57:01Z] Retrieved rtx3090: 10
+[2025-05-27T19:57:01Z] Querying rx6700
+[2025-05-27T19:57:01Z] Retrieved rx6700: 14
+[2025-05-27T19:57:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T19:57:01Z] Output saved to data/raw/sales_20250527_1957.csv
+[2025-05-27T20:00:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T20:00:01Z] Querying rtx3060
+[2025-05-27T20:00:01Z] Retrieved rtx3060: 0
+[2025-05-27T20:00:01Z] Querying rtx3070
+[2025-05-27T20:00:01Z] Retrieved rtx3070: 8
+[2025-05-27T20:00:01Z] Querying rtx3080
+[2025-05-27T20:00:01Z] Retrieved rtx3080: 8
+[2025-05-27T20:00:01Z] Querying rtx3090
+[2025-05-27T20:00:01Z] Retrieved rtx3090: 12
+[2025-05-27T20:00:01Z] Querying rx6700
+[2025-05-27T20:00:01Z] Retrieved rx6700: 1
+[2025-05-27T20:00:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T20:00:01Z] Output saved to data/raw/sales_20250527_2000.csv
+[2025-05-27T20:03:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T20:03:01Z] Querying rtx3060
+[2025-05-27T20:03:01Z] Retrieved rtx3060: 20
+[2025-05-27T20:03:01Z] Querying rtx3070
+[2025-05-27T20:03:01Z] Retrieved rtx3070: 6
+[2025-05-27T20:03:01Z] Querying rtx3080
+[2025-05-27T20:03:01Z] Retrieved rtx3080: 6
+[2025-05-27T20:03:01Z] Querying rtx3090
+[2025-05-27T20:03:01Z] Retrieved rtx3090: 5
+[2025-05-27T20:03:01Z] Querying rx6700
+[2025-05-27T20:03:01Z] Retrieved rx6700: 17
+[2025-05-27T20:03:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T20:03:01Z] Output saved to data/raw/sales_20250527_2003.csv
+[2025-05-27T20:06:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T20:06:01Z] Querying rtx3060
+[2025-05-27T20:06:01Z] Retrieved rtx3060: 0
+[2025-05-27T20:06:01Z] Querying rtx3070
+[2025-05-27T20:06:01Z] Retrieved rtx3070: 2
+[2025-05-27T20:06:01Z] Querying rtx3080
+[2025-05-27T20:06:01Z] Retrieved rtx3080: 2
+[2025-05-27T20:06:01Z] Querying rtx3090
+[2025-05-27T20:06:01Z] Retrieved rtx3090: 12
+[2025-05-27T20:06:01Z] Querying rx6700
+[2025-05-27T20:06:01Z] Retrieved rx6700: 1
+[2025-05-27T20:06:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T20:06:01Z] Output saved to data/raw/sales_20250527_2006.csv
+[2025-05-27T20:09:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T20:09:01Z] Querying rtx3060
+[2025-05-27T20:09:01Z] Retrieved rtx3060: 6
+[2025-05-27T20:09:01Z] Querying rtx3070
+[2025-05-27T20:09:01Z] Retrieved rtx3070: 8
+[2025-05-27T20:09:01Z] Querying rtx3080
+[2025-05-27T20:09:01Z] Retrieved rtx3080: 8
+[2025-05-27T20:09:01Z] Querying rtx3090
+[2025-05-27T20:09:01Z] Retrieved rtx3090: 4
+[2025-05-27T20:09:01Z] Querying rx6700
+[2025-05-27T20:09:01Z] Retrieved rx6700: 17
+[2025-05-27T20:09:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T20:09:01Z] Output saved to data/raw/sales_20250527_2009.csv
+[2025-05-27T20:12:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T20:12:01Z] Querying rtx3060
+[2025-05-27T20:12:01Z] Retrieved rtx3060: 12
+[2025-05-27T20:12:01Z] Querying rtx3070
+[2025-05-27T20:12:01Z] Retrieved rtx3070: 8
+[2025-05-27T20:12:01Z] Querying rtx3080
+[2025-05-27T20:12:01Z] Retrieved rtx3080: 8
+[2025-05-27T20:12:01Z] Querying rtx3090
+[2025-05-27T20:12:01Z] Retrieved rtx3090: 1
+[2025-05-27T20:12:01Z] Querying rx6700
+[2025-05-27T20:12:01Z] Retrieved rx6700: 16
+[2025-05-27T20:12:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T20:12:01Z] Output saved to data/raw/sales_20250527_2012.csv
+[2025-05-27T20:15:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T20:15:01Z] Querying rtx3060
+[2025-05-27T20:15:01Z] Retrieved rtx3060: 18
+[2025-05-27T20:15:01Z] Querying rtx3070
+[2025-05-27T20:15:01Z] Retrieved rtx3070: 16
+[2025-05-27T20:15:01Z] Querying rtx3080
+[2025-05-27T20:15:01Z] Retrieved rtx3080: 16
+[2025-05-27T20:15:01Z] Querying rtx3090
+[2025-05-27T20:15:01Z] Retrieved rtx3090: 5
+[2025-05-27T20:15:01Z] Querying rx6700
+[2025-05-27T20:15:01Z] Retrieved rx6700: 17
+[2025-05-27T20:15:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T20:15:01Z] Output saved to data/raw/sales_20250527_2015.csv
+[2025-05-27T20:18:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T20:18:01Z] Querying rtx3060
+[2025-05-27T20:18:01Z] Retrieved rtx3060: 9
+[2025-05-27T20:18:01Z] Querying rtx3070
+[2025-05-27T20:18:01Z] Retrieved rtx3070: 6
+[2025-05-27T20:18:01Z] Querying rtx3080
+[2025-05-27T20:18:01Z] Retrieved rtx3080: 6
+[2025-05-27T20:18:01Z] Querying rtx3090
+[2025-05-27T20:18:01Z] Retrieved rtx3090: 1
+[2025-05-27T20:18:01Z] Querying rx6700
+[2025-05-27T20:18:01Z] Retrieved rx6700: 9
+[2025-05-27T20:18:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T20:18:01Z] Output saved to data/raw/sales_20250527_2018.csv
+[2025-05-27T20:21:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T20:21:01Z] Querying rtx3060
+[2025-05-27T20:21:01Z] Retrieved rtx3060: 4
+[2025-05-27T20:21:01Z] Querying rtx3070
+[2025-05-27T20:21:01Z] Retrieved rtx3070: 10
+[2025-05-27T20:21:01Z] Querying rtx3080
+[2025-05-27T20:21:01Z] Retrieved rtx3080: 10
+[2025-05-27T20:21:01Z] Querying rtx3090
+[2025-05-27T20:21:01Z] Retrieved rtx3090: 2
+[2025-05-27T20:21:01Z] Querying rx6700
+[2025-05-27T20:21:01Z] Retrieved rx6700: 18
+[2025-05-27T20:21:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T20:21:01Z] Output saved to data/raw/sales_20250527_2021.csv
+[2025-05-27T20:24:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T20:24:01Z] Querying rtx3060
+[2025-05-27T20:24:01Z] Retrieved rtx3060: 2
+[2025-05-27T20:24:01Z] Querying rtx3070
+[2025-05-27T20:24:01Z] Retrieved rtx3070: 6
+[2025-05-27T20:24:01Z] Querying rtx3080
+[2025-05-27T20:24:01Z] Retrieved rtx3080: 6
+[2025-05-27T20:24:01Z] Querying rtx3090
+[2025-05-27T20:24:02Z] Retrieved rtx3090: 10
+[2025-05-27T20:24:02Z] Querying rx6700
+[2025-05-27T20:24:02Z] Retrieved rx6700: 1
+[2025-05-27T20:24:02Z] Data added to data/raw/sales_data.csv
+[2025-05-27T20:24:02Z] Output saved to data/raw/sales_20250527_2024.csv
+[2025-05-27T20:27:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T20:27:01Z] Querying rtx3060
+[2025-05-27T20:27:01Z] Retrieved rtx3060: 20
+[2025-05-27T20:27:01Z] Querying rtx3070
+[2025-05-27T20:27:01Z] Retrieved rtx3070: 8
+[2025-05-27T20:27:01Z] Querying rtx3080
+[2025-05-27T20:27:01Z] Retrieved rtx3080: 8
+[2025-05-27T20:27:01Z] Querying rtx3090
+[2025-05-27T20:27:01Z] Retrieved rtx3090: 2
+[2025-05-27T20:27:01Z] Querying rx6700
+[2025-05-27T20:27:01Z] Retrieved rx6700: 12
+[2025-05-27T20:27:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T20:27:01Z] Output saved to data/raw/sales_20250527_2027.csv
+[2025-05-27T20:30:02Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T20:30:02Z] Querying rtx3060
+[2025-05-27T20:30:02Z] Retrieved rtx3060: 18
+[2025-05-27T20:30:02Z] Querying rtx3070
+[2025-05-27T20:30:02Z] Retrieved rtx3070: 15
+[2025-05-27T20:30:02Z] Querying rtx3080
+[2025-05-27T20:30:02Z] Retrieved rtx3080: 15
+[2025-05-27T20:30:02Z] Querying rtx3090
+[2025-05-27T20:30:02Z] Retrieved rtx3090: 0
+[2025-05-27T20:30:02Z] Querying rx6700
+[2025-05-27T20:30:02Z] Retrieved rx6700: 18
+[2025-05-27T20:30:02Z] Data added to data/raw/sales_data.csv
+[2025-05-27T20:30:02Z] Output saved to data/raw/sales_20250527_2030.csv
+[2025-05-27T20:33:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T20:33:01Z] Querying rtx3060
+[2025-05-27T20:33:01Z] Retrieved rtx3060: 10
+[2025-05-27T20:33:01Z] Querying rtx3070
+[2025-05-27T20:33:01Z] Retrieved rtx3070: 12
+[2025-05-27T20:33:01Z] Querying rtx3080
+[2025-05-27T20:33:01Z] Retrieved rtx3080: 12
+[2025-05-27T20:33:01Z] Querying rtx3090
+[2025-05-27T20:33:01Z] Retrieved rtx3090: 4
+[2025-05-27T20:33:01Z] Querying rx6700
+[2025-05-27T20:33:01Z] Retrieved rx6700: 20
+[2025-05-27T20:33:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T20:33:01Z] Output saved to data/raw/sales_20250527_2033.csv
+[2025-05-27T20:36:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T20:36:01Z] Querying rtx3060
+[2025-05-27T20:36:02Z] Retrieved rtx3060: 6
+[2025-05-27T20:36:02Z] Querying rtx3070
+[2025-05-27T20:36:02Z] Retrieved rtx3070: 3
+[2025-05-27T20:36:02Z] Querying rtx3080
+[2025-05-27T20:36:02Z] Retrieved rtx3080: 3
+[2025-05-27T20:36:02Z] Querying rtx3090
+[2025-05-27T20:36:02Z] Retrieved rtx3090: 14
+[2025-05-27T20:36:02Z] Querying rx6700
+[2025-05-27T20:36:02Z] Retrieved rx6700: 5
+[2025-05-27T20:36:02Z] Data added to data/raw/sales_data.csv
+[2025-05-27T20:36:02Z] Output saved to data/raw/sales_20250527_2036.csv
+[2025-05-27T20:39:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T20:39:01Z] Querying rtx3060
+[2025-05-27T20:39:01Z] Retrieved rtx3060: 1
+[2025-05-27T20:39:01Z] Querying rtx3070
+[2025-05-27T20:39:01Z] Retrieved rtx3070: 2
+[2025-05-27T20:39:01Z] Querying rtx3080
+[2025-05-27T20:39:01Z] Retrieved rtx3080: 2
+[2025-05-27T20:39:01Z] Querying rtx3090
+[2025-05-27T20:39:01Z] Retrieved rtx3090: 14
+[2025-05-27T20:39:01Z] Querying rx6700
+[2025-05-27T20:39:01Z] Retrieved rx6700: 19
+[2025-05-27T20:39:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T20:39:01Z] Output saved to data/raw/sales_20250527_2039.csv
+[2025-05-27T20:42:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T20:42:01Z] Querying rtx3060
+[2025-05-27T20:42:01Z] Retrieved rtx3060: 12
+[2025-05-27T20:42:01Z] Querying rtx3070
+[2025-05-27T20:42:01Z] Retrieved rtx3070: 9
+[2025-05-27T20:42:01Z] Querying rtx3080
+[2025-05-27T20:42:01Z] Retrieved rtx3080: 9
+[2025-05-27T20:42:01Z] Querying rtx3090
+[2025-05-27T20:42:01Z] Retrieved rtx3090: 0
+[2025-05-27T20:42:01Z] Querying rx6700
+[2025-05-27T20:42:01Z] Retrieved rx6700: 10
+[2025-05-27T20:42:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T20:42:01Z] Output saved to data/raw/sales_20250527_2042.csv
+[2025-05-27T20:45:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T20:45:01Z] Querying rtx3060
+[2025-05-27T20:45:01Z] Retrieved rtx3060: 17
+[2025-05-27T20:45:01Z] Querying rtx3070
+[2025-05-27T20:45:01Z] Retrieved rtx3070: 12
+[2025-05-27T20:45:01Z] Querying rtx3080
+[2025-05-27T20:45:01Z] Retrieved rtx3080: 12
+[2025-05-27T20:45:01Z] Querying rtx3090
+[2025-05-27T20:45:01Z] Retrieved rtx3090: 3
+[2025-05-27T20:45:01Z] Querying rx6700
+[2025-05-27T20:45:01Z] Retrieved rx6700: 14
+[2025-05-27T20:45:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T20:45:01Z] Output saved to data/raw/sales_20250527_2045.csv
+[2025-05-27T20:48:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T20:48:01Z] Querying rtx3060
+[2025-05-27T20:48:01Z] Retrieved rtx3060: 4
+[2025-05-27T20:48:01Z] Querying rtx3070
+[2025-05-27T20:48:01Z] Retrieved rtx3070: 15
+[2025-05-27T20:48:01Z] Querying rtx3080
+[2025-05-27T20:48:01Z] Retrieved rtx3080: 15
+[2025-05-27T20:48:01Z] Querying rtx3090
+[2025-05-27T20:48:01Z] Retrieved rtx3090: 6
+[2025-05-27T20:48:01Z] Querying rx6700
+[2025-05-27T20:48:01Z] Retrieved rx6700: 9
+[2025-05-27T20:48:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T20:48:01Z] Output saved to data/raw/sales_20250527_2048.csv
+[2025-05-27T20:51:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T20:51:01Z] Querying rtx3060
+[2025-05-27T20:51:01Z] Retrieved rtx3060: 3
+[2025-05-27T20:51:01Z] Querying rtx3070
+[2025-05-27T20:51:01Z] Retrieved rtx3070: 4
+[2025-05-27T20:51:01Z] Querying rtx3080
+[2025-05-27T20:51:01Z] Retrieved rtx3080: 4
+[2025-05-27T20:51:01Z] Querying rtx3090
+[2025-05-27T20:51:01Z] Retrieved rtx3090: 13
+[2025-05-27T20:51:01Z] Querying rx6700
+[2025-05-27T20:51:01Z] Retrieved rx6700: 3
+[2025-05-27T20:51:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T20:51:01Z] Output saved to data/raw/sales_20250527_2051.csv
+[2025-05-27T20:54:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T20:54:01Z] Querying rtx3060
+[2025-05-27T20:54:01Z] Retrieved rtx3060: 8
+[2025-05-27T20:54:01Z] Querying rtx3070
+[2025-05-27T20:54:02Z] Retrieved rtx3070: 11
+[2025-05-27T20:54:02Z] Querying rtx3080
+[2025-05-27T20:54:02Z] Retrieved rtx3080: 11
+[2025-05-27T20:54:02Z] Querying rtx3090
+[2025-05-27T20:54:02Z] Retrieved rtx3090: 14
+[2025-05-27T20:54:02Z] Querying rx6700
+[2025-05-27T20:54:02Z] Retrieved rx6700: 4
+[2025-05-27T20:54:02Z] Data added to data/raw/sales_data.csv
+[2025-05-27T20:54:02Z] Output saved to data/raw/sales_20250527_2054.csv
+[2025-05-27T20:57:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T20:57:01Z] Querying rtx3060
+[2025-05-27T20:57:01Z] Retrieved rtx3060: 5
+[2025-05-27T20:57:01Z] Querying rtx3070
+[2025-05-27T20:57:01Z] Retrieved rtx3070: 17
+[2025-05-27T20:57:01Z] Querying rtx3080
+[2025-05-27T20:57:01Z] Retrieved rtx3080: 17
+[2025-05-27T20:57:01Z] Querying rtx3090
+[2025-05-27T20:57:01Z] Retrieved rtx3090: 10
+[2025-05-27T20:57:01Z] Querying rx6700
+[2025-05-27T20:57:01Z] Retrieved rx6700: 14
+[2025-05-27T20:57:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T20:57:01Z] Output saved to data/raw/sales_20250527_2057.csv
+[2025-05-27T21:00:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T21:00:01Z] Querying rtx3060
+[2025-05-27T21:00:01Z] Retrieved rtx3060: 0
+[2025-05-27T21:00:01Z] Querying rtx3070
+[2025-05-27T21:00:01Z] Retrieved rtx3070: 8
+[2025-05-27T21:00:01Z] Querying rtx3080
+[2025-05-27T21:00:01Z] Retrieved rtx3080: 8
+[2025-05-27T21:00:01Z] Querying rtx3090
+[2025-05-27T21:00:01Z] Retrieved rtx3090: 12
+[2025-05-27T21:00:01Z] Querying rx6700
+[2025-05-27T21:00:01Z] Retrieved rx6700: 1
+[2025-05-27T21:00:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T21:00:01Z] Output saved to data/raw/sales_20250527_2100.csv
+[2025-05-27T21:03:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T21:03:01Z] Querying rtx3060
+[2025-05-27T21:03:01Z] Retrieved rtx3060: 20
+[2025-05-27T21:03:01Z] Querying rtx3070
+[2025-05-27T21:03:01Z] Retrieved rtx3070: 6
+[2025-05-27T21:03:01Z] Querying rtx3080
+[2025-05-27T21:03:01Z] Retrieved rtx3080: 6
+[2025-05-27T21:03:01Z] Querying rtx3090
+[2025-05-27T21:03:01Z] Retrieved rtx3090: 5
+[2025-05-27T21:03:01Z] Querying rx6700
+[2025-05-27T21:03:01Z] Retrieved rx6700: 17
+[2025-05-27T21:03:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T21:03:01Z] Output saved to data/raw/sales_20250527_2103.csv
+[2025-05-27T21:06:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T21:06:01Z] Querying rtx3060
+[2025-05-27T21:06:01Z] Retrieved rtx3060: 0
+[2025-05-27T21:06:01Z] Querying rtx3070
+[2025-05-27T21:06:01Z] Retrieved rtx3070: 2
+[2025-05-27T21:06:01Z] Querying rtx3080
+[2025-05-27T21:06:01Z] Retrieved rtx3080: 2
+[2025-05-27T21:06:01Z] Querying rtx3090
+[2025-05-27T21:06:01Z] Retrieved rtx3090: 12
+[2025-05-27T21:06:01Z] Querying rx6700
+[2025-05-27T21:06:01Z] Retrieved rx6700: 1
+[2025-05-27T21:06:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T21:06:01Z] Output saved to data/raw/sales_20250527_2106.csv
+[2025-05-27T21:09:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-27T21:09:01Z] Querying rtx3060
+[2025-05-27T21:09:01Z] Retrieved rtx3060: 6
+[2025-05-27T21:09:01Z] Querying rtx3070
+[2025-05-27T21:09:01Z] Retrieved rtx3070: 8
+[2025-05-27T21:09:01Z] Querying rtx3080
+[2025-05-27T21:09:01Z] Retrieved rtx3080: 8
+[2025-05-27T21:09:01Z] Querying rtx3090
+[2025-05-27T21:09:01Z] Retrieved rtx3090: 4
+[2025-05-27T21:09:01Z] Querying rx6700
+[2025-05-27T21:09:01Z] Retrieved rx6700: 17
+[2025-05-27T21:09:01Z] Data added to data/raw/sales_data.csv
+[2025-05-27T21:09:01Z] Output saved to data/raw/sales_20250527_2109.csv
+[2025-05-28T11:18:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T11:18:01Z] Querying rtx3060
+[2025-05-28T11:18:01Z] Retrieved rtx3060: 8
+[2025-05-28T11:18:01Z] Querying rtx3070
+[2025-05-28T11:18:01Z] Retrieved rtx3070: 4
+[2025-05-28T11:18:01Z] Querying rtx3080
+[2025-05-28T11:18:01Z] Retrieved rtx3080: 4
+[2025-05-28T11:18:01Z] Querying rtx3090
+[2025-05-28T11:18:01Z] Retrieved rtx3090: 4
+[2025-05-28T11:18:01Z] Querying rx6700
+[2025-05-28T11:18:01Z] Retrieved rx6700: 6
+[2025-05-28T11:18:01Z] Data added to data/raw/sales_data.csv
+[2025-05-28T11:18:01Z] Output saved to data/raw/sales_20250528_1118.csv
+[2025-05-28T11:21:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T11:21:01Z] Querying rtx3060
+[2025-05-28T11:21:01Z] Retrieved rtx3060: 6
+[2025-05-28T11:21:01Z] Querying rtx3070
+[2025-05-28T11:21:01Z] Retrieved rtx3070: 15
+[2025-05-28T11:21:01Z] Querying rtx3080
+[2025-05-28T11:21:01Z] Retrieved rtx3080: 15
+[2025-05-28T11:21:01Z] Querying rtx3090
+[2025-05-28T11:21:01Z] Retrieved rtx3090: 1
+[2025-05-28T11:21:01Z] Querying rx6700
+[2025-05-28T11:21:01Z] Retrieved rx6700: 15
+[2025-05-28T11:21:01Z] Data added to data/raw/sales_data.csv
+[2025-05-28T11:21:01Z] Output saved to data/raw/sales_20250528_1121.csv
+[2025-05-28T11:24:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T11:24:01Z] Querying rtx3060
+[2025-05-28T11:24:01Z] Retrieved rtx3060: 12
+[2025-05-28T11:24:01Z] Querying rtx3070
+[2025-05-28T11:24:01Z] Retrieved rtx3070: 15
+[2025-05-28T11:24:01Z] Querying rtx3080
+[2025-05-28T11:24:01Z] Retrieved rtx3080: 15
+[2025-05-28T11:24:01Z] Querying rtx3090
+[2025-05-28T11:24:01Z] Retrieved rtx3090: 7
+[2025-05-28T11:24:01Z] Querying rx6700
+[2025-05-28T11:24:01Z] Retrieved rx6700: 5
+[2025-05-28T11:24:01Z] Data added to data/raw/sales_data.csv
+[2025-05-28T11:24:01Z] Output saved to data/raw/sales_20250528_1124.csv
+[2025-05-28T11:27:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T11:27:01Z] Querying rtx3060
+[2025-05-28T11:27:01Z] Retrieved rtx3060: 12
+[2025-05-28T11:27:01Z] Querying rtx3070
+[2025-05-28T11:27:01Z] Retrieved rtx3070: 10
+[2025-05-28T11:27:01Z] Querying rtx3080
+[2025-05-28T11:27:01Z] Retrieved rtx3080: 10
+[2025-05-28T11:27:01Z] Querying rtx3090
+[2025-05-28T11:27:01Z] Retrieved rtx3090: 13
+[2025-05-28T11:27:01Z] Querying rx6700
+[2025-05-28T11:27:01Z] Retrieved rx6700: 8
+[2025-05-28T11:27:01Z] Data added to data/raw/sales_data.csv
+[2025-05-28T11:27:01Z] Output saved to data/raw/sales_20250528_1127.csv
+[2025-05-28T11:30:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T11:30:01Z] Querying rtx3060
+[2025-05-28T11:30:01Z] Retrieved rtx3060: 11
+[2025-05-28T11:30:01Z] Querying rtx3070
+[2025-05-28T11:30:01Z] Retrieved rtx3070: 14
+[2025-05-28T11:30:01Z] Querying rtx3080
+[2025-05-28T11:30:01Z] Retrieved rtx3080: 14
+[2025-05-28T11:30:01Z] Querying rtx3090
+[2025-05-28T11:30:01Z] Retrieved rtx3090: 14
+[2025-05-28T11:30:01Z] Querying rx6700
+[2025-05-28T11:30:01Z] Retrieved rx6700: 13
+[2025-05-28T11:30:01Z] Data added to data/raw/sales_data.csv
+[2025-05-28T11:30:01Z] Output saved to data/raw/sales_20250528_1130.csv
+[2025-05-28T11:33:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T11:33:01Z] Querying rtx3060
+[2025-05-28T11:33:01Z] Retrieved rtx3060: 17
+[2025-05-28T11:33:01Z] Querying rtx3070
+[2025-05-28T11:33:01Z] Retrieved rtx3070: 13
+[2025-05-28T11:33:01Z] Querying rtx3080
+[2025-05-28T11:33:01Z] Retrieved rtx3080: 13
+[2025-05-28T11:33:01Z] Querying rtx3090
+[2025-05-28T11:33:02Z] Retrieved rtx3090: 2
+[2025-05-28T11:33:02Z] Querying rx6700
+[2025-05-28T11:33:02Z] Retrieved rx6700: 12
+[2025-05-28T11:33:02Z] Data added to data/raw/sales_data.csv
+[2025-05-28T11:33:02Z] Output saved to data/raw/sales_20250528_1133.csv
+[2025-05-28T11:36:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T11:36:01Z] Querying rtx3060
+[2025-05-28T11:36:01Z] Retrieved rtx3060: 8
+[2025-05-28T11:36:01Z] Querying rtx3070
+[2025-05-28T11:36:01Z] Retrieved rtx3070: 7
+[2025-05-28T11:36:01Z] Querying rtx3080
+[2025-05-28T11:36:01Z] Retrieved rtx3080: 7
+[2025-05-28T11:36:01Z] Querying rtx3090
+[2025-05-28T11:36:01Z] Retrieved rtx3090: 9
+[2025-05-28T11:36:01Z] Querying rx6700
+[2025-05-28T11:36:01Z] Retrieved rx6700: 5
+[2025-05-28T11:36:01Z] Data added to data/raw/sales_data.csv
+[2025-05-28T11:36:01Z] Output saved to data/raw/sales_20250528_1136.csv
+[2025-05-28T11:39:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T11:39:01Z] Querying rtx3060
+[2025-05-28T11:39:01Z] Retrieved rtx3060: 1
+[2025-05-28T11:39:01Z] Querying rtx3070
+[2025-05-28T11:39:01Z] Retrieved rtx3070: 18
+[2025-05-28T11:39:01Z] Querying rtx3080
+[2025-05-28T11:39:01Z] Retrieved rtx3080: 18
+[2025-05-28T11:39:01Z] Querying rtx3090
+[2025-05-28T11:39:01Z] Retrieved rtx3090: 15
+[2025-05-28T11:39:01Z] Querying rx6700
+[2025-05-28T11:39:01Z] Retrieved rx6700: 11
+[2025-05-28T11:39:01Z] Data added to data/raw/sales_data.csv
+[2025-05-28T11:39:01Z] Output saved to data/raw/sales_20250528_1139.csv
+[2025-05-28T11:42:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T11:42:01Z] Querying rtx3060
+[2025-05-28T11:42:01Z] Retrieved rtx3060: 9
+[2025-05-28T11:42:01Z] Querying rtx3070
+[2025-05-28T11:42:01Z] Retrieved rtx3070: 18
+[2025-05-28T11:42:01Z] Querying rtx3080
+[2025-05-28T11:42:01Z] Retrieved rtx3080: 18
+[2025-05-28T11:42:01Z] Querying rtx3090
+[2025-05-28T11:42:01Z] Retrieved rtx3090: 20
+[2025-05-28T11:42:01Z] Querying rx6700
+[2025-05-28T11:42:01Z] Retrieved rx6700: 18
+[2025-05-28T11:42:01Z] Data added to data/raw/sales_data.csv
+[2025-05-28T11:42:01Z] Output saved to data/raw/sales_20250528_1142.csv
+[2025-05-28T11:45:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T11:45:01Z] Querying rtx3060
+[2025-05-28T11:45:01Z] Retrieved rtx3060: 5
+[2025-05-28T11:45:01Z] Querying rtx3070
+[2025-05-28T11:45:01Z] Retrieved rtx3070: 10
+[2025-05-28T11:45:01Z] Querying rtx3080
+[2025-05-28T11:45:01Z] Retrieved rtx3080: 10
+[2025-05-28T11:45:01Z] Querying rtx3090
+[2025-05-28T11:45:01Z] Retrieved rtx3090: 8
+[2025-05-28T11:45:01Z] Querying rx6700
+[2025-05-28T11:45:01Z] Retrieved rx6700: 14
+[2025-05-28T11:45:01Z] Data added to data/raw/sales_data.csv
+[2025-05-28T11:45:01Z] Output saved to data/raw/sales_20250528_1145.csv
+[2025-05-28T11:47:07Z] Copied data from data/raw/sales_20250528_1145.csv into data/raw/sales_20250528_1147.csv
+[2025-05-28T11:47:07Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T11:47:07Z] Querying rtx3060
+[2025-05-28T11:47:07Z] Retrieved rtx3060: 20
+[2025-05-28T11:47:07Z] Querying rtx3070
+[2025-05-28T11:47:07Z] Retrieved rtx3070: 4
+[2025-05-28T11:47:07Z] Querying rtx3080
+[2025-05-28T11:47:07Z] Retrieved rtx3080: 4
+[2025-05-28T11:47:07Z] Querying rtx3090
+[2025-05-28T11:47:07Z] Retrieved rtx3090: 0
+[2025-05-28T11:47:07Z] Querying rx6700
+[2025-05-28T11:47:07Z] Retrieved rx6700: 5
+[2025-05-28T11:47:07Z] Output saved to data/raw/sales_20250528_1147.csv
+[2025-05-28T11:48:01Z] Copied data from data/raw/sales_20250528_1147.csv into data/raw/sales_20250528_1148.csv
+[2025-05-28T11:48:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T11:48:01Z] Querying rtx3060
+[2025-05-28T11:48:01Z] Retrieved rtx3060: 9
+[2025-05-28T11:48:01Z] Querying rtx3070
+[2025-05-28T11:48:01Z] Retrieved rtx3070: 15
+[2025-05-28T11:48:01Z] Querying rtx3080
+[2025-05-28T11:48:01Z] Retrieved rtx3080: 15
+[2025-05-28T11:48:01Z] Querying rtx3090
+[2025-05-28T11:48:01Z] Retrieved rtx3090: 12
+[2025-05-28T11:48:01Z] Querying rx6700
+[2025-05-28T11:48:01Z] Retrieved rx6700: 19
+[2025-05-28T11:48:01Z] Output saved to data/raw/sales_20250528_1148.csv
+[2025-05-28T11:48:34Z] Copied data from data/raw/sales_20250528_1148.csv into data/raw/sales_20250528_1148.csv
+[2025-05-28T11:48:34Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T11:48:34Z] Querying rtx3060
+[2025-05-28T11:48:34Z] Retrieved rtx3060: 9
+[2025-05-28T11:48:34Z] Querying rtx3070
+[2025-05-28T11:48:34Z] Retrieved rtx3070: 15
+[2025-05-28T11:48:34Z] Querying rtx3080
+[2025-05-28T11:48:34Z] Retrieved rtx3080: 15
+[2025-05-28T11:48:34Z] Querying rtx3090
+[2025-05-28T11:48:34Z] Retrieved rtx3090: 12
+[2025-05-28T11:48:34Z] Querying rx6700
+[2025-05-28T11:48:34Z] Retrieved rx6700: 19
+[2025-05-28T11:48:34Z] Output saved to data/raw/sales_20250528_1148.csv
+[2025-05-28T11:49:11Z] Copied data from data/raw/sales_data.csv into data/raw/sales_20250528_1149.csv
+[2025-05-28T11:49:11Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T11:49:11Z] Querying rtx3060
+[2025-05-28T11:49:11Z] Retrieved rtx3060: 10
+[2025-05-28T11:49:11Z] Querying rtx3070
+[2025-05-28T11:49:11Z] Retrieved rtx3070: 2
+[2025-05-28T11:49:11Z] Querying rtx3080
+[2025-05-28T11:49:11Z] Retrieved rtx3080: 2
+[2025-05-28T11:49:11Z] Querying rtx3090
+[2025-05-28T11:49:11Z] Retrieved rtx3090: 19
+[2025-05-28T11:49:11Z] Querying rx6700
+[2025-05-28T11:49:11Z] Retrieved rx6700: 17
+[2025-05-28T11:49:11Z] Output saved to data/raw/sales_20250528_1149.csv
+[2025-05-28T11:51:01Z] Copied data from data/raw/sales_20250528_1149.csv into data/raw/sales_20250528_1151.csv
+[2025-05-28T11:51:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T11:51:01Z] Querying rtx3060
+[2025-05-28T11:51:01Z] Retrieved rtx3060: 6
+[2025-05-28T11:51:01Z] Querying rtx3070
+[2025-05-28T11:51:01Z] Retrieved rtx3070: 15
+[2025-05-28T11:51:01Z] Querying rtx3080
+[2025-05-28T11:51:01Z] Retrieved rtx3080: 15
+[2025-05-28T11:51:01Z] Querying rtx3090
+[2025-05-28T11:51:01Z] Retrieved rtx3090: 2
+[2025-05-28T11:51:01Z] Querying rx6700
+[2025-05-28T11:51:01Z] Retrieved rx6700: 6
+[2025-05-28T11:51:01Z] Output saved to data/raw/sales_20250528_1151.csv
+[2025-05-28T11:54:01Z] Copied data from data/raw/sales_20250528_1151.csv into data/raw/sales_20250528_1154.csv
+[2025-05-28T11:54:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T11:54:01Z] Querying rtx3060
+[2025-05-28T11:54:01Z] Retrieved rtx3060: 1
+[2025-05-28T11:54:01Z] Querying rtx3070
+[2025-05-28T11:54:01Z] Retrieved rtx3070: 3
+[2025-05-28T11:54:01Z] Querying rtx3080
+[2025-05-28T11:54:01Z] Retrieved rtx3080: 3
+[2025-05-28T11:54:01Z] Querying rtx3090
+[2025-05-28T11:54:01Z] Retrieved rtx3090: 6
+[2025-05-28T11:54:01Z] Querying rx6700
+[2025-05-28T11:54:01Z] Retrieved rx6700: 4
+[2025-05-28T11:54:01Z] Output saved to data/raw/sales_20250528_1154.csv
+[2025-05-28T11:57:01Z] Copied data from data/raw/sales_20250528_1154.csv into data/raw/sales_20250528_1157.csv
+[2025-05-28T11:57:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T11:57:01Z] Querying rtx3060
+[2025-05-28T11:57:01Z] Retrieved rtx3060: 8
+[2025-05-28T11:57:01Z] Querying rtx3070
+[2025-05-28T11:57:01Z] Retrieved rtx3070: 9
+[2025-05-28T11:57:01Z] Querying rtx3080
+[2025-05-28T11:57:01Z] Retrieved rtx3080: 9
+[2025-05-28T11:57:01Z] Querying rtx3090
+[2025-05-28T11:57:01Z] Retrieved rtx3090: 13
+[2025-05-28T11:57:01Z] Querying rx6700
+[2025-05-28T11:57:01Z] Retrieved rx6700: 20
+[2025-05-28T11:57:01Z] Output saved to data/raw/sales_20250528_1157.csv
+[2025-05-28T12:00:01Z] Copied data from data/raw/sales_20250528_1157.csv into data/raw/sales_20250528_1200.csv
+[2025-05-28T12:00:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T12:00:01Z] Querying rtx3060
+[2025-05-28T12:00:01Z] Retrieved rtx3060: 9
+[2025-05-28T12:00:01Z] Querying rtx3070
+[2025-05-28T12:00:01Z] Retrieved rtx3070: 1
+[2025-05-28T12:00:01Z] Querying rtx3080
+[2025-05-28T12:00:01Z] Retrieved rtx3080: 1
+[2025-05-28T12:00:01Z] Querying rtx3090
+[2025-05-28T12:00:01Z] Retrieved rtx3090: 6
+[2025-05-28T12:00:01Z] Querying rx6700
+[2025-05-28T12:00:01Z] Retrieved rx6700: 3
+[2025-05-28T12:00:01Z] Output saved to data/raw/sales_20250528_1200.csv
+[2025-05-28T12:03:01Z] Copied data from data/raw/sales_20250528_1200.csv into data/raw/sales_20250528_1203.csv
+[2025-05-28T12:03:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T12:03:01Z] Querying rtx3060
+[2025-05-28T12:03:01Z] Retrieved rtx3060: 10
+[2025-05-28T12:03:01Z] Querying rtx3070
+[2025-05-28T12:03:01Z] Retrieved rtx3070: 7
+[2025-05-28T12:03:01Z] Querying rtx3080
+[2025-05-28T12:03:01Z] Retrieved rtx3080: 7
+[2025-05-28T12:03:01Z] Querying rtx3090
+[2025-05-28T12:03:01Z] Retrieved rtx3090: 6
+[2025-05-28T12:03:01Z] Querying rx6700
+[2025-05-28T12:03:01Z] Retrieved rx6700: 6
+[2025-05-28T12:03:01Z] Output saved to data/raw/sales_20250528_1203.csv
+[2025-05-28T12:06:01Z] Copied data from data/raw/sales_20250528_1203.csv into data/raw/sales_20250528_1206.csv
+[2025-05-28T12:06:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T12:06:01Z] Querying rtx3060
+[2025-05-28T12:06:01Z] Retrieved rtx3060: 10
+[2025-05-28T12:06:01Z] Querying rtx3070
+[2025-05-28T12:06:01Z] Retrieved rtx3070: 11
+[2025-05-28T12:06:01Z] Querying rtx3080
+[2025-05-28T12:06:01Z] Retrieved rtx3080: 11
+[2025-05-28T12:06:01Z] Querying rtx3090
+[2025-05-28T12:06:01Z] Retrieved rtx3090: 9
+[2025-05-28T12:06:01Z] Querying rx6700
+[2025-05-28T12:06:01Z] Retrieved rx6700: 4
+[2025-05-28T12:06:01Z] Output saved to data/raw/sales_20250528_1206.csv
+[2025-05-28T12:09:01Z] Copied data from data/raw/sales_20250528_1206.csv into data/raw/sales_20250528_1209.csv
+[2025-05-28T12:09:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T12:09:01Z] Querying rtx3060
+[2025-05-28T12:09:01Z] Retrieved rtx3060: 20
+[2025-05-28T12:09:01Z] Querying rtx3070
+[2025-05-28T12:09:01Z] Retrieved rtx3070: 19
+[2025-05-28T12:09:01Z] Querying rtx3080
+[2025-05-28T12:09:01Z] Retrieved rtx3080: 19
+[2025-05-28T12:09:01Z] Querying rtx3090
+[2025-05-28T12:09:01Z] Retrieved rtx3090: 8
+[2025-05-28T12:09:01Z] Querying rx6700
+[2025-05-28T12:09:01Z] Retrieved rx6700: 15
+[2025-05-28T12:09:01Z] Output saved to data/raw/sales_20250528_1209.csv
+[2025-05-28T12:12:01Z] Copied data from data/raw/sales_data.csv into data/raw/sales_20250528_1212.csv
+[2025-05-28T12:12:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T12:12:01Z] Querying rtx3060
+[2025-05-28T12:12:01Z] Retrieved rtx3060: 17
+[2025-05-28T12:12:01Z] Querying rtx3070
+[2025-05-28T12:12:01Z] Retrieved rtx3070: 14
+[2025-05-28T12:12:01Z] Querying rtx3080
+[2025-05-28T12:12:01Z] Retrieved rtx3080: 14
+[2025-05-28T12:12:01Z] Querying rtx3090
+[2025-05-28T12:12:01Z] Retrieved rtx3090: 1
+[2025-05-28T12:12:01Z] Querying rx6700
+[2025-05-28T12:12:01Z] Retrieved rx6700: 20
+[2025-05-28T12:12:01Z] Output saved to data/raw/sales_20250528_1212.csv
+[2025-05-28T12:13:18Z] Copied data from data/raw/sales_20250528_1212.csv into data/raw/sales_20250528_1213.csv
+[2025-05-28T12:13:18Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T12:13:18Z] Querying rtx3060
+[2025-05-28T12:13:18Z] Retrieved rtx3060: 13
+[2025-05-28T12:13:18Z] Querying rtx3070
+[2025-05-28T12:13:18Z] Retrieved rtx3070: 2
+[2025-05-28T12:13:18Z] Querying rtx3080
+[2025-05-28T12:13:18Z] Retrieved rtx3080: 2
+[2025-05-28T12:13:18Z] Querying rtx3090
+[2025-05-28T12:13:18Z] Retrieved rtx3090: 11
+[2025-05-28T12:13:18Z] Querying rx6700
+[2025-05-28T12:13:18Z] Retrieved rx6700: 1
+[2025-05-28T12:13:18Z] Output saved to data/raw/sales_20250528_1213.csv
+[2025-05-28T12:14:00Z] Copied data from data/raw/sales_20250528_1213.csv into data/raw/sales_20250528_1214.csv
+[2025-05-28T12:14:00Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T12:14:00Z] Querying rtx3060
+[2025-05-28T12:14:00Z] Retrieved rtx3060: 5
+[2025-05-28T12:14:00Z] Querying rtx3070
+[2025-05-28T12:14:00Z] Retrieved rtx3070: 10
+[2025-05-28T12:14:00Z] Querying rtx3080
+[2025-05-28T12:14:00Z] Retrieved rtx3080: 10
+[2025-05-28T12:14:00Z] Querying rtx3090
+[2025-05-28T12:14:00Z] Retrieved rtx3090: 2
+[2025-05-28T12:14:00Z] Querying rx6700
+[2025-05-28T12:14:00Z] Retrieved rx6700: 6
+[2025-05-28T12:14:00Z] Output saved to data/raw/sales_20250528_1214.csv
+[2025-05-28T12:14:51Z] Copied data from data/raw/sales_20250528_1214.csv into data/raw/sales_20250528_1214.csv
+[2025-05-28T12:14:51Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T12:14:51Z] Querying rtx3060
+[2025-05-28T12:14:51Z] Retrieved rtx3060: 5
+[2025-05-28T12:14:51Z] Querying rtx3070
+[2025-05-28T12:14:51Z] Retrieved rtx3070: 10
+[2025-05-28T12:14:51Z] Querying rtx3080
+[2025-05-28T12:14:51Z] Retrieved rtx3080: 10
+[2025-05-28T12:14:51Z] Querying rtx3090
+[2025-05-28T12:14:51Z] Retrieved rtx3090: 2
+[2025-05-28T12:14:51Z] Querying rx6700
+[2025-05-28T12:14:51Z] Retrieved rx6700: 6
+[2025-05-28T12:14:51Z] Output saved to data/raw/sales_20250528_1214.csv
+[2025-05-28T12:15:01Z] Copied data from data/raw/sales_20250528_1214.csv into data/raw/sales_20250528_1215.csv
+[2025-05-28T12:15:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T12:15:01Z] Querying rtx3060
+[2025-05-28T12:15:01Z] Retrieved rtx3060: 5
+[2025-05-28T12:15:01Z] Querying rtx3070
+[2025-05-28T12:15:01Z] Retrieved rtx3070: 19
+[2025-05-28T12:15:01Z] Querying rtx3080
+[2025-05-28T12:15:01Z] Retrieved rtx3080: 19
+[2025-05-28T12:15:01Z] Querying rtx3090
+[2025-05-28T12:15:01Z] Retrieved rtx3090: 11
+[2025-05-28T12:15:01Z] Querying rx6700
+[2025-05-28T12:15:01Z] Retrieved rx6700: 1
+[2025-05-28T12:15:01Z] Output saved to data/raw/sales_20250528_1215.csv
+[2025-05-28T12:15:41Z] Copied data from data/raw/sales_20250528_1215.csv into data/raw/sales_20250528_1215.csv
+[2025-05-28T12:15:41Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T12:15:41Z] Querying rtx3060
+[2025-05-28T12:15:41Z] Retrieved rtx3060: 5
+[2025-05-28T12:15:41Z] Querying rtx3070
+[2025-05-28T12:15:41Z] Retrieved rtx3070: 19
+[2025-05-28T12:15:41Z] Querying rtx3080
+[2025-05-28T12:15:41Z] Retrieved rtx3080: 19
+[2025-05-28T12:15:41Z] Querying rtx3090
+[2025-05-28T12:15:41Z] Retrieved rtx3090: 11
+[2025-05-28T12:15:41Z] Querying rx6700
+[2025-05-28T12:15:41Z] Retrieved rx6700: 1
+[2025-05-28T12:15:41Z] Output saved to data/raw/sales_20250528_1215.csv
+[2025-05-28T12:17:28Z] Copied data from data/raw/sales_20250528_1215.csv into data/raw/sales_20250528_1217.csv
+[2025-05-28T12:17:28Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T12:17:28Z] Querying rtx3060
+[2025-05-28T12:17:28Z] Retrieved rtx3060: 19
+[2025-05-28T12:17:28Z] Querying rtx3070
+[2025-05-28T12:17:29Z] Retrieved rtx3070: 3
+[2025-05-28T12:17:29Z] Querying rtx3080
+[2025-05-28T12:17:29Z] Retrieved rtx3080: 3
+[2025-05-28T12:17:29Z] Querying rtx3090
+[2025-05-28T12:17:29Z] Retrieved rtx3090: 10
+[2025-05-28T12:17:29Z] Querying rx6700
+[2025-05-28T12:17:29Z] Retrieved rx6700: 0
+[2025-05-28T12:17:29Z] Output saved to data/raw/sales_20250528_1217.csv
+[2025-05-28T12:18:01Z] Copied data from data/raw/sales_20250528_1217.csv into data/raw/sales_20250528_1218.csv
+[2025-05-28T12:18:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T12:18:01Z] Querying rtx3060
+[2025-05-28T12:18:01Z] Retrieved rtx3060: 8
+[2025-05-28T12:18:01Z] Querying rtx3070
+[2025-05-28T12:18:01Z] Retrieved rtx3070: 4
+[2025-05-28T12:18:01Z] Querying rtx3080
+[2025-05-28T12:18:01Z] Retrieved rtx3080: 4
+[2025-05-28T12:18:01Z] Querying rtx3090
+[2025-05-28T12:18:01Z] Retrieved rtx3090: 4
+[2025-05-28T12:18:01Z] Querying rx6700
+[2025-05-28T12:18:01Z] Retrieved rx6700: 6
+[2025-05-28T12:18:01Z] Output saved to data/raw/sales_20250528_1218.csv
+[2025-05-28T12:18:02Z] Copied data from data/raw/sales_20250528_1218.csv into data/raw/sales_20250528_1218.csv
+[2025-05-28T12:18:02Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T12:18:02Z] Querying rtx3060
+[2025-05-28T12:18:02Z] Retrieved rtx3060: 8
+[2025-05-28T12:18:02Z] Querying rtx3070
+[2025-05-28T12:18:02Z] Retrieved rtx3070: 4
+[2025-05-28T12:18:02Z] Querying rtx3080
+[2025-05-28T12:18:02Z] Retrieved rtx3080: 4
+[2025-05-28T12:18:02Z] Querying rtx3090
+[2025-05-28T12:18:02Z] Retrieved rtx3090: 4
+[2025-05-28T12:18:02Z] Querying rx6700
+[2025-05-28T12:18:02Z] Retrieved rx6700: 6
+[2025-05-28T12:18:02Z] Output saved to data/raw/sales_20250528_1218.csv
+[2025-05-28T12:20:45Z] Copied data from data/raw/sales_20250528_1218.csv into data/raw/sales_20250528_1220.csv
+[2025-05-28T12:20:45Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T12:20:45Z] Querying rtx3060
+[2025-05-28T12:20:45Z] Retrieved rtx3060: 18
+[2025-05-28T12:20:45Z] Querying rtx3070
+[2025-05-28T12:20:45Z] Retrieved rtx3070: 20
+[2025-05-28T12:20:45Z] Querying rtx3080
+[2025-05-28T12:20:45Z] Retrieved rtx3080: 20
+[2025-05-28T12:20:45Z] Querying rtx3090
+[2025-05-28T12:20:45Z] Retrieved rtx3090: 2
+[2025-05-28T12:20:45Z] Querying rx6700
+[2025-05-28T12:20:45Z] Retrieved rx6700: 12
+[2025-05-28T12:20:45Z] Output saved to data/raw/sales_20250528_1220.csv
+[2025-05-28T12:20:58Z] Copied data from data/raw/sales_20250528_1220.csv into data/raw/sales_20250528_1220.csv
+[2025-05-28T12:20:58Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T12:20:58Z] Querying rtx3060
+[2025-05-28T12:20:58Z] Retrieved rtx3060: 18
+[2025-05-28T12:20:58Z] Querying rtx3070
+[2025-05-28T12:20:58Z] Retrieved rtx3070: 20
+[2025-05-28T12:20:58Z] Querying rtx3080
+[2025-05-28T12:20:58Z] Retrieved rtx3080: 20
+[2025-05-28T12:20:58Z] Querying rtx3090
+[2025-05-28T12:20:58Z] Retrieved rtx3090: 2
+[2025-05-28T12:20:58Z] Querying rx6700
+[2025-05-28T12:20:58Z] Retrieved rx6700: 12
+[2025-05-28T12:20:58Z] Output saved to data/raw/sales_20250528_1220.csv
+[2025-05-28T12:21:01Z] Copied data from data/raw/sales_20250528_1220.csv into data/raw/sales_20250528_1221.csv
+[2025-05-28T12:21:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T12:21:01Z] Querying rtx3060
+[2025-05-28T12:21:01Z] Retrieved rtx3060: 6
+[2025-05-28T12:21:01Z] Querying rtx3070
+[2025-05-28T12:21:01Z] Retrieved rtx3070: 15
+[2025-05-28T12:21:01Z] Querying rtx3080
+[2025-05-28T12:21:01Z] Retrieved rtx3080: 15
+[2025-05-28T12:21:01Z] Querying rtx3090
+[2025-05-28T12:21:01Z] Retrieved rtx3090: 1
+[2025-05-28T12:21:01Z] Querying rx6700
+[2025-05-28T12:21:01Z] Retrieved rx6700: 15
+[2025-05-28T12:21:01Z] Output saved to data/raw/sales_20250528_1221.csv
+[2025-05-28T12:23:02Z] Copied data from data/raw/sales_20250528_1212.csv into data/raw/sales_20250528_1223.csv
+[2025-05-28T12:23:02Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T12:23:02Z] Querying rtx3060
+[2025-05-28T12:23:02Z] Retrieved rtx3060: 6
+[2025-05-28T12:23:02Z] Querying rtx3070
+[2025-05-28T12:23:02Z] Retrieved rtx3070: 16
+[2025-05-28T12:23:02Z] Querying rtx3080
+[2025-05-28T12:23:02Z] Retrieved rtx3080: 16
+[2025-05-28T12:23:02Z] Querying rtx3090
+[2025-05-28T12:23:02Z] Retrieved rtx3090: 9
+[2025-05-28T12:23:02Z] Querying rx6700
+[2025-05-28T12:23:02Z] Retrieved rx6700: 1
+[2025-05-28T12:23:02Z] Output saved to data/raw/sales_20250528_1223.csv
+[2025-05-28T12:24:01Z] Copied data from data/raw/sales_20250528_1223.csv into data/raw/sales_20250528_1224.csv
+[2025-05-28T12:24:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T12:24:01Z] Querying rtx3060
+[2025-05-28T12:24:01Z] Retrieved rtx3060: 12
+[2025-05-28T12:24:01Z] Querying rtx3070
+[2025-05-28T12:24:01Z] Retrieved rtx3070: 15
+[2025-05-28T12:24:01Z] Querying rtx3080
+[2025-05-28T12:24:01Z] Retrieved rtx3080: 15
+[2025-05-28T12:24:01Z] Querying rtx3090
+[2025-05-28T12:24:01Z] Retrieved rtx3090: 7
+[2025-05-28T12:24:01Z] Querying rx6700
+[2025-05-28T12:24:01Z] Retrieved rx6700: 5
+[2025-05-28T12:24:01Z] Output saved to data/raw/sales_20250528_1224.csv
+[2025-05-28T12:27:01Z] Copied data from data/raw/sales_20250528_1224.csv into data/raw/sales_20250528_1227.csv
+[2025-05-28T12:27:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T12:27:01Z] Querying rtx3060
+[2025-05-28T12:27:01Z] Retrieved rtx3060: 12
+[2025-05-28T12:27:01Z] Querying rtx3070
+[2025-05-28T12:27:01Z] Retrieved rtx3070: 10
+[2025-05-28T12:27:01Z] Querying rtx3080
+[2025-05-28T12:27:01Z] Retrieved rtx3080: 10
+[2025-05-28T12:27:01Z] Querying rtx3090
+[2025-05-28T12:27:01Z] Retrieved rtx3090: 13
+[2025-05-28T12:27:01Z] Querying rx6700
+[2025-05-28T12:27:02Z] Retrieved rx6700: 8
+[2025-05-28T12:27:02Z] Output saved to data/raw/sales_20250528_1227.csv
+[2025-05-28T12:30:01Z] Copied data from data/raw/sales_20250528_1227.csv into data/raw/sales_20250528_1230.csv
+[2025-05-28T12:30:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T12:30:01Z] Querying rtx3060
+[2025-05-28T12:30:01Z] Retrieved rtx3060: 11
+[2025-05-28T12:30:01Z] Querying rtx3070
+[2025-05-28T12:30:01Z] Retrieved rtx3070: 14
+[2025-05-28T12:30:01Z] Querying rtx3080
+[2025-05-28T12:30:01Z] Retrieved rtx3080: 14
+[2025-05-28T12:30:01Z] Querying rtx3090
+[2025-05-28T12:30:01Z] Retrieved rtx3090: 14
+[2025-05-28T12:30:01Z] Querying rx6700
+[2025-05-28T12:30:01Z] Retrieved rx6700: 13
+[2025-05-28T12:30:01Z] Output saved to data/raw/sales_20250528_1230.csv
+[2025-05-28T12:33:01Z] Copied data from data/raw/sales_20250528_1230.csv into data/raw/sales_20250528_1233.csv
+[2025-05-28T12:33:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T12:33:01Z] Querying rtx3060
+[2025-05-28T12:33:01Z] Retrieved rtx3060: 17
+[2025-05-28T12:33:01Z] Querying rtx3070
+[2025-05-28T12:33:01Z] Retrieved rtx3070: 13
+[2025-05-28T12:33:01Z] Querying rtx3080
+[2025-05-28T12:33:01Z] Retrieved rtx3080: 13
+[2025-05-28T12:33:01Z] Querying rtx3090
+[2025-05-28T12:33:01Z] Retrieved rtx3090: 2
+[2025-05-28T12:33:01Z] Querying rx6700
+[2025-05-28T12:33:01Z] Retrieved rx6700: 12
+[2025-05-28T12:33:01Z] Output saved to data/raw/sales_20250528_1233.csv
+[2025-05-28T12:36:01Z] Copied data from data/raw/sales_20250528_1233.csv into data/raw/sales_20250528_1236.csv
+[2025-05-28T12:36:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T12:36:01Z] Querying rtx3060
+[2025-05-28T12:36:01Z] Retrieved rtx3060: 8
+[2025-05-28T12:36:01Z] Querying rtx3070
+[2025-05-28T12:36:01Z] Retrieved rtx3070: 7
+[2025-05-28T12:36:01Z] Querying rtx3080
+[2025-05-28T12:36:01Z] Retrieved rtx3080: 7
+[2025-05-28T12:36:01Z] Querying rtx3090
+[2025-05-28T12:36:02Z] Retrieved rtx3090: 9
+[2025-05-28T12:36:02Z] Querying rx6700
+[2025-05-28T12:36:02Z] Retrieved rx6700: 5
+[2025-05-28T12:36:02Z] Output saved to data/raw/sales_20250528_1236.csv
+[2025-05-28T12:39:01Z] Copied data from data/raw/sales_20250528_1236.csv into data/raw/sales_20250528_1239.csv
+[2025-05-28T12:39:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T12:39:01Z] Querying rtx3060
+[2025-05-28T12:39:01Z] Retrieved rtx3060: 1
+[2025-05-28T12:39:01Z] Querying rtx3070
+[2025-05-28T12:39:01Z] Retrieved rtx3070: 18
+[2025-05-28T12:39:01Z] Querying rtx3080
+[2025-05-28T12:39:01Z] Retrieved rtx3080: 18
+[2025-05-28T12:39:01Z] Querying rtx3090
+[2025-05-28T12:39:01Z] Retrieved rtx3090: 15
+[2025-05-28T12:39:01Z] Querying rx6700
+[2025-05-28T12:39:01Z] Retrieved rx6700: 11
+[2025-05-28T12:39:01Z] Output saved to data/raw/sales_20250528_1239.csv
+[2025-05-28T12:42:01Z] Copied data from data/raw/sales_20250528_1239.csv into data/raw/sales_20250528_1242.csv
+[2025-05-28T12:42:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T12:42:01Z] Querying rtx3060
+[2025-05-28T12:42:01Z] Retrieved rtx3060: 9
+[2025-05-28T12:42:01Z] Querying rtx3070
+[2025-05-28T12:42:01Z] Retrieved rtx3070: 18
+[2025-05-28T12:42:01Z] Querying rtx3080
+[2025-05-28T12:42:01Z] Retrieved rtx3080: 18
+[2025-05-28T12:42:01Z] Querying rtx3090
+[2025-05-28T12:42:01Z] Retrieved rtx3090: 20
+[2025-05-28T12:42:01Z] Querying rx6700
+[2025-05-28T12:42:01Z] Retrieved rx6700: 18
+[2025-05-28T12:42:01Z] Output saved to data/raw/sales_20250528_1242.csv
+[2025-05-28T12:45:01Z] Copied data from data/raw/sales_20250528_1242.csv into data/raw/sales_20250528_1245.csv
+[2025-05-28T12:45:01Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T12:45:01Z] Querying rtx3060
+[2025-05-28T12:45:01Z] Retrieved rtx3060: 5
+[2025-05-28T12:45:01Z] Querying rtx3070
+[2025-05-28T12:45:01Z] Retrieved rtx3070: 10
+[2025-05-28T12:45:01Z] Querying rtx3080
+[2025-05-28T12:45:01Z] Retrieved rtx3080: 10
+[2025-05-28T12:45:01Z] Querying rtx3090
+[2025-05-28T12:45:01Z] Retrieved rtx3090: 8
+[2025-05-28T12:45:01Z] Querying rx6700
+[2025-05-28T12:45:01Z] Retrieved rx6700: 14
+[2025-05-28T12:45:01Z] Output saved to data/raw/sales_20250528_1245.csv
+[2025-05-28T12:46:00Z] Copied data from data/raw/sales_20250528_1245.csv into data/raw/sales_20250528_1246.csv
+[2025-05-28T12:46:00Z] Starting collection for GPUs: rtx3060 rtx3070 rtx3080 rtx3090 rx6700
+[2025-05-28T12:46:00Z] Querying rtx3060
+[2025-05-28T12:46:00Z] Retrieved rtx3060: 2
+[2025-05-28T12:46:00Z] Querying rtx3070
+[2025-05-28T12:46:00Z] Retrieved rtx3070: 19
+[2025-05-28T12:46:00Z] Querying rtx3080
+[2025-05-28T12:46:00Z] Retrieved rtx3080: 19
+[2025-05-28T12:46:00Z] Querying rtx3090
+[2025-05-28T12:46:00Z] Retrieved rtx3090: 14
+[2025-05-28T12:46:00Z] Querying rx6700
+[2025-05-28T12:46:00Z] Retrieved rx6700: 2
+[2025-05-28T12:46:00Z] Output saved to data/raw/sales_20250528_1246.csv

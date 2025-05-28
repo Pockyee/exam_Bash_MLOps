@@ -19,7 +19,8 @@ import pandas as pd
 from pathlib import Path
 from datetime import datetime, timezone
 
-INPUT_FILE = Path("data/raw/sales_data.csv")
+DATA_DIR = Path("data/raw")
+INPUT_FILE = max(DATA_DIR.glob("sales_*.csv"), key=lambda p: p.stat().st_mtime)
 OUTPUT_DIR = Path("data/processed")
 LOG_PATH = Path("logs/preprocessed.logs")
 
@@ -41,14 +42,9 @@ def main():
 
    log("Pivoting data...")
    pivot_df = df.pivot(index="timestamp", columns="model", values="sales")
-
-   pivot_df = pivot_df.reindex(columns=MODEL_COLUMNS, fill_value=0)
-   pivot_df[MODEL_COLUMNS] = pivot_df[MODEL_COLUMNS].fillna(0).astype(int)
-   pivot_df.reset_index(inplace=True)
-   
-   pivot_df['timestamp'] = pd.to_datetime(pivot_df['timestamp'], utc=True)
-   pivot_df['timestamp'] = pivot_df['timestamp'].astype(int) // 10**9
-   pivot_df.rename(columns={'timestamp': 'time'}, inplace=True)
+   pivot_df = pivot_df.fillna(0).astype(int)
+   pivot_df = pivot_df.reset_index()
+   pivot_df = pivot_df.drop("timestamp", axis=1)
    
    timestamp_str = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M")
    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)

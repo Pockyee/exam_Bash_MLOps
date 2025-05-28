@@ -16,3 +16,39 @@ Integer type check: OK (all columns are integers)
 Test completed for the preprocessed file.
 === Test ended ===
 
+
+=== Test started (2025-05-28 12:15:47) ===
+Starting structure test for the preprocessed file
+Loaded file: data/processed/sales_processed_20250528_1215.csv
+Timestamp column check: OK (not present)
+Integer type check: OK (all columns are integers)
+Test completed for the preprocessed file.
+=== Test ended ===
+
+
+=== Test started (2025-05-28 12:17:33) ===
+Starting structure test for the preprocessed file
+Loaded file: data/processed/sales_processed_20250528_1217.csv
+Timestamp column check: OK (not present)
+Integer type check: OK (all columns are integers)
+Test completed for the preprocessed file.
+=== Test ended ===
+
+
+=== Test started (2025-05-28 12:23:07) ===
+Starting structure test for the preprocessed file
+Loaded file: data/processed/sales_processed_20250528_1223.csv
+Timestamp column check: OK (not present)
+Integer type check: OK (all columns are integers)
+Test completed for the preprocessed file.
+=== Test ended ===
+
+
+=== Test started (2025-05-28 12:46:06) ===
+Starting structure test for the preprocessed file
+Loaded file: data/processed/sales_processed_20250528_1246.csv
+Timestamp column check: OK (not present)
+Integer type check: OK (all columns are integers)
+Test completed for the preprocessed file.
+=== Test ended ===
+
