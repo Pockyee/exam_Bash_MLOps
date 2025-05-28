@@ -34,3 +34,15 @@ Test passed: The model file exists.
 Starting test for model file presence
 Test passed: The model file exists.
 === Test completed (2025-05-28 12:46:06) ===
+2025-05-28 13:02:27,000 - INFO - Model found: model/model.pkl
+
+=== Test started (2025-05-28 13:02:27) ===
+Starting test for model file presence
+Test passed: The model file exists.
+=== Test completed (2025-05-28 13:02:27) ===
+2025-05-28 13:04:10,000 - INFO - Model found: model/model.pkl
+
+=== Test started (2025-05-28 13:04:10) ===
+Starting test for model file presence
+Test passed: The model file exists.
+=== Test completed (2025-05-28 13:04:10) ===

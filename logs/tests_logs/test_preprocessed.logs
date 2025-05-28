@@ -52,3 +52,21 @@ Integer type check: OK (all columns are integers)
 Test completed for the preprocessed file.
 === Test ended ===
 
+
+=== Test started (2025-05-28 13:02:26) ===
+Starting structure test for the preprocessed file
+Loaded file: data/processed/sales_processed_20250528_1302.csv
+Timestamp column check: OK (not present)
+Integer type check: OK (all columns are integers)
+Test completed for the preprocessed file.
+=== Test ended ===
+
+
+=== Test started (2025-05-28 13:04:10) ===
+Starting structure test for the preprocessed file
+Loaded file: data/processed/sales_processed_20250528_1304.csv
+Timestamp column check: OK (not present)
+Integer type check: OK (all columns are integers)
+Test completed for the preprocessed file.
+=== Test ended ===
+
